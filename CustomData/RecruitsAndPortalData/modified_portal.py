@@ -20,6 +20,8 @@ merged_df = portal_df
 # NIL_df['School'] = NIL_df['School'].fillna("Hawaii (Football)").replace("Hawaii (Football)", "Hawaii")
 # NIL_df['School'] = NIL_df['School'].fillna("Louisiana - Lafayette").replace("Louisiana - Lafayette", "Louisiana")
 # NIL_df['School'] = NIL_df['School'].fillna("Louisiana - Monroe").replace("Louisiana - Monroe", "Louisiana Monroe")
+# merged_df['destination'] = merged_df['destination'].fillna("San José State").replace("San José State", "San Jose State")
+# merged_df['origin'] = merged_df['origin'].fillna("San José State").replace("San José State", "San Jose State")
 # Create dictionary from NIL_df
 school_to_nil = NIL_df.set_index('School')['Collective Funding'].to_dict()
 school_to_nil["none"] = "none"
