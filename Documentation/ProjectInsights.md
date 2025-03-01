@@ -9,13 +9,16 @@ The top five schools that lose the most players through the transfer portal are 
 
 ## Which MW players are at risk of transferring in/out according to our model?
 Players most likely to transfer out:
-                           transfer_likelihood
-
+                                   transfer_likelihood
+Garrett Beckman (OL UNLV)          0.263794
+Sir Oliver Everett (DB UNLV)       0.231141
+Tyleek Collins (WR UNLV)           0.284072
+Kenyon Oblad (QB UNLV)             0.336212
+Jalen Graves (DL UNLV)             0.220343
 
 Players most likely to transfer in:
-                         transfer_likelihood
-Daviyon McDaniel         0.973844
-Tate Martell             1.034532
-Jordan Jakes             1.028604
-Tate Martell             0.998723
-Jordan Jakes             1.028604
+                                   transfer_likelihood
+Daviyon McDaniel (OL UNLV)         0.973844
+Tate Martell (QB UNLV)             1.034532
+Jordan Jakes (WR Valdosta State)   1.028604
+
