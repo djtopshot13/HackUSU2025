@@ -215,6 +215,11 @@ P5Sdf = generateConfCols(P5Sdf, P5ConfDict)
 P5Sdf.sort_values(by=['S', 'Conf', 'Team', 'Name'], inplace=True)
 P5Sdf.to_csv('Power 5 Data/Power 5 ST Grades.csv', index=False)
 
+totalP5df = pd.concat([P5Odf, P5Ddf, P5Sdf])
+totalP5df.sort_values(by=['S', 'Conf', 'Team', 'Name'], inplace=True)
+totalP5df.to_csv('Power 5 Data/Total Power 5 Grades.csv', index=False)
+
+
 G5Ddf = generateConfCols(G5Ddf, G5ConfDict)
 G5Ddf.sort_values(by=['S', 'Conf', 'Team', 'Name'], inplace=True)
 G5Ddf.to_csv('Group 5 Data/Group 5 Defense Grades.csv', index=False)
@@ -224,6 +229,14 @@ G5Odf.to_csv('Group 5 Data/Group 5 Offense Grades.csv', index=False)
 G5Sdf = generateConfCols(G5Sdf, G5ConfDict)
 G5Sdf.sort_values(by=['S', 'Conf', 'Team', 'Name'], inplace=True)
 G5Sdf.to_csv('Group 5 Data/Group 5 ST Grades.csv', index=False)
+
+totalG5df = pd.concat([G5Odf, G5Ddf, G5Sdf])
+totalG5df.sort_values(by=['S', 'Conf', 'Team', 'Name'], inplace=True)
+totalG5df.to_csv('Group 5 Data/Total Group 5 Grades.csv', index=False)
+
+totalP5G5df = pd.concat([totalP5df, totalG5df])
+totalP5G5df.sort_values(by=['S', 'Conf', 'Team', 'Name'], inplace=True)
+totalP5G5df.to_csv('Total Grades.csv', index=False)
 
 PFFdf = generateConfCols(PFFdf, G5ConfDict)
 PFFdf.sort_values(by=['S', 'Conf', 'Team', 'Name'], inplace=True)
