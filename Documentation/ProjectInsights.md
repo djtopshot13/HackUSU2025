@@ -7,4 +7,15 @@ Our model had an overall mean squared error of 0.0764, meaning that roughly 7.64
 ## Which schools lose/gain the most players from the transfer portal?
 The top five schools that lose the most players through the transfer portal are Colorado, Tennessee, Mississippi State, Florida State, and Ole Miss. The top five schools that gain the most players through the transfer portal are Texas State, Colorado, SMU, UMASS, and Arizona State. Interestingly enough, two of these schools (SMU and Arizona State) made their first-ever College Football Playoff appearances with rosters built largely from transfer portal players. 
 
-## Which USU players are at risk of transferring according to our model?
+## Which MW players are at risk of transferring in/out according to our model?
+Players most likely to transfer out:
+                           transfer_likelihood
+
+
+Players most likely to transfer in:
+                         transfer_likelihood
+Daviyon McDaniel         0.973844
+Tate Martell             1.034532
+Jordan Jakes             1.028604
+Tate Martell             0.998723
+Jordan Jakes             1.028604
