@@ -67,7 +67,7 @@ P5ConfDict = {
         "Cincinnati": "CINCINNATI",
         "Colorado": "COLORADO",
         "Houston": "HOUSTON",
-        "Iowa State": "IOWA ST",
+        "Iowa State": "IOWA STATE",
         "Colorado": "COLORADO",
         "Iowa State": "IOWA ST",
         "Kansas": "KANSAS",
