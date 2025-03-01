@@ -22,6 +22,11 @@ merged_df = portal_df
 # NIL_df['School'] = NIL_df['School'].fillna("Louisiana - Monroe").replace("Louisiana - Monroe", "Louisiana Monroe")
 # merged_df['destination'] = merged_df['destination'].fillna("San José State").replace("San José State", "San Jose State")
 # merged_df['origin'] = merged_df['origin'].fillna("San José State").replace("San José State", "San Jose State")
+# NIL_df['School'] = NIL_df['School'].fillna("Texas at El Paso").replace("Texas at El Paso", "UTEP")
+# NIL_df['School'] = NIL_df['School'].fillna("Mississippi St.").replace("Mississippi St.", "Mississippi State")
+# NIL_df['School'] = NIL_df['School'].fillna("North Carolina State").replace("North Carolina State", "NC State")
+# NIL_df['School'] = NIL_df['School'].fillna("Nevada-Las Vegas").replace("Nevada-Las Vegas", "UNLV")
+NIL_df['School'] = NIL_df['School'].fillna("Central Florida").replace("Central Florida", "UCF")
 # Create dictionary from NIL_df
 school_to_nil = NIL_df.set_index('School')['Collective Funding'].to_dict()
 school_to_nil["none"] = "none"
@@ -35,6 +40,6 @@ merged_df['originNIL'] = merged_df['origin'].map(school_to_nil)
 # print(merged_df)
 # print(merged_df.info())
 # merged_df.drop(columns=['destinationNIL'], inplace=True)
-# NIL_df.to_csv('NILData/NIL.csv', index=False)
+NIL_df.to_csv('NILData/NIL.csv', index=False)
 merged_df.to_csv('RecruitsAndPortalData/modified_CFB_Portal_Data.csv', index=False)
 
