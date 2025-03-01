@@ -1,18 +1,20 @@
 - [**PFF Stat Key Documentation**](#pff-stat-key-documentation)
-  - [Overall Stats](#overall-stats)
-  - [Special Teams](#special-teams)
-  - [Defense](#defense)
+  - [Overall Stats\<\\u\>](#overall-statsu)
+  - [Special Teams\<\\u\>](#special-teamsu)
+  - [Defense\<\\u\>](#defenseu)
   - [Offense\<\\u\>](#offenseu)
 # **PFF Stat Key Documentation**
-## Overall Stats
+## <u>Overall Stats<\u>
 - POS: Position
 - S: Season
 - Conf: Conference
 - Team: Team
 - Name: Name
-- Unnamed: hyphenated full team name
+- Slug: Full Team Name Hyphenated
+- \#: Player's Jersey Number
 
-## <u>Special Teams</u>
+
+## <u>Special Teams<\u>
 
 - ST: ?
 - KRET: Kickoff Returns
@@ -27,11 +29,13 @@
 - AST: Assisted Tackles
 - MT: Missed Tackles
 
-## <u>Defense</u>
-- RUND: Run defense
-- PRSH: Pass rush
-- COV: Coverage
-- DEFGRD: Defense grade
+## <u>Defense<\u>
+- DEF: Number of Defensive Snaps Played
+- DEF%: Unsure how this number is calculated by PFF
+- RUND: Number of Run Defense Plays
+- PRSH: Number of Pass Rush Plays
+- COV: Number of Pass Coverage Plays
+- DEF GRD: Defense grade
 - RUND GRD: Run defense grade
 - PRSH GRD: Pass rush grade
 - BP: ???
@@ -54,4 +58,4 @@
 - PBLK GRD: Player's Cumulative/Season Grade of Blocking for Passing Plays
 - RBLK GRD: Player's Cumulative/Season Grade of Blocking for Rushing
 - KEY: ?
-- PEN: {Penalties For - Penalties Againgst}
+- PEN: {Penalties For - Penalties Against}?
