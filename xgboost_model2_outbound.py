@@ -21,11 +21,11 @@ df['originNIL'].fillna(df['originNIL'].median(), inplace=True)
 df['destinationNIL'].fillna(df['destinationNIL'].median(), inplace=True)
 
 # Prepare features and target
-inboundfeatures = ['position', 'originNIL', 
-            'destination21%', 'destination22%', 'destination23%', 'destinationNIL', 'stars']
+outboundfeatures = ['position', 'originNIL', 'origin21%', 'origin22%', 'origin23%', 
+             'destinationNIL', 'stars']
 
 
-X = df[inboundfeatures]
+X = df[outboundfeatures]
 y = (df['destination'] != 'none').astype(int)  # 1 if destination is not 'none', 0 otherwise
 
 # Split the data
@@ -42,7 +42,7 @@ print(f"Mean Squared Error: {mse}")
 
 # Feature importance
 feature_importance = model.feature_importances_
-importance_df = pd.DataFrame({'feature': inboundfeatures, 'importance': feature_importance})
+importance_df = pd.DataFrame({'feature': outboundfeatures, 'importance': feature_importance})
 importance_df = importance_df.sort_values('importance', ascending=False)
 print("\nFeature Importance:")
 print(importance_df)
@@ -55,11 +55,11 @@ def predict_transfers(new_data_path):
     new_df['destinationNIL'] = pd.to_numeric(new_df['destinationNIL'], errors='coerce')
     new_df['originNIL'].fillna(new_df['originNIL'].median(), inplace=True)
     new_df['destinationNIL'].fillna(new_df['destinationNIL'].median(), inplace=True)
-    X_new = new_df[inboundfeatures]
+    X_new = new_df[outboundfeatures]
     predictions = model.predict(X_new)
     new_df['transfer_likelihood'] = predictions
     return new_df
 
 # Example usage (uncomment when you have the PFF data file)
-pff_data = predict_transfers('PFF Data\MW Data\pff-inbound.csv')
+pff_data = predict_transfers('PFF Data\MW Data\pff-outbound.csv')
 print(pff_data[['first_name', 'last_name', 'transfer_likelihood']].head())
