@@ -29,4 +29,6 @@ nil['Collective Funding'] = pd.to_numeric(nil['Collective Funding'], errors='coe
 # If you want all values as integers and fill NaNs with 0 (optional)
 nil['Collective Funding'] = nil['Collective Funding'].fillna(0).astype(int)
 
-print(nil)
+# Save the updated DataFrame to a new CSV file
+nil.to_csv("/Users/lukenichols/Documents/GitHub/HackUSU2025/CustomData/NILData/NILGroupof5_Updated.csv", index=False)
+

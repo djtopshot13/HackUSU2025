@@ -46,4 +46,7 @@ for school, conf in private.items():
 # Convert 'Collective Funding' to integer after removing '$' and ','
 nil['Collective Funding'] = nil['Collective Funding'].astype(str).replace({'\$': '', ',': ''}, regex=True).astype(int)
 
-print(nil)
+# Save the updated DataFrame to a new CSV file
+nil.to_csv("/Users/lukenichols/Documents/GitHub/HackUSU2025/CustomData/NILData/NILPower5_Updated.csv", index=False)
+
+
