@@ -30,6 +30,7 @@ merged_df = portal_df
 
 
 # Create dictionary from NIL_df
+# NIL_df["Collective Funding"] = NIL_df["Collective Funding"].astype(str).replace({'$': '', ',': '', 'none': ''}, regex=True)
 school_to_nil = NIL_df.set_index('School')['Collective Funding'].to_dict()
 school_to_nil["none"] = "none"
 
@@ -39,6 +40,7 @@ merged_df['destinationNIL'] = merged_df['destination'].map(school_to_nil)
 merged_df['originNIL'] = merged_df['origin'].map(school_to_nil)
 
 # merged_df['originNIL'] = merged_df['originNIL'].fillna("").replace("", "No Data")
+# merged_df['destinationNIL'] = merged_df['destinationNIL'].fillna("").replace("", "No Data")
 # print(merged_df)
 # print(merged_df.info())
 # merged_df.drop(columns=['destinationNIL'], inplace=True)
