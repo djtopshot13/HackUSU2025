@@ -10,21 +10,23 @@ merged_df = portal_df
 # merged_df = merged_df.drop(columns=['Collective Funding'])
 # merged_df = portal_df.drop(columns=['destinationNIL', 'Ticket Sales', 'Ticket Sales_x', 'Ticket Sales_y', 'Total Support', 'Total Support_x', 'Total Support_y', 'Contributions', 'Contributions_x', 'Contributions_y', 'Conf', 'Conf_x', 'Conf_y', 'School', 'School_x', 'School_y'])
 # merged_df['destination'] = merged_df['destination'].str.strip()
-merged_df = portal_df
 # merged_df.insert(loc=8, column='destinationNIL', value="No Data")
-
+# NIL_df['School'] = NIL_df['School'].fillna("UT San Antonio").replace("Texas at San Antonio", "UTSA")
+# merged_df['destination'] = merged_df['destination'].fillna("UT San Antonio").replace("UT San Antonio", "UTSA")
+# merged_df['origin'] = merged_df['origin'].fillna("UT San Antonio").replace("UT San Antonio", "UTSA")
 # Create dictionary from NIL_df
-# school_to_nil = NIL_df.set_index('School')['Collective Funding'].to_dict()
-# school_to_nil["none"] = "none"
+school_to_nil = NIL_df.set_index('School')['Collective Funding'].to_dict()
+school_to_nil["none"] = "none"
 
 
 # Map NIL values directly into merged_df
-# merged_df['destinationNIL'] = merged_df['destination'].map(school_to_nil)
-# merged_df['destinationNIL'] = merged_df['destinationNIL'].fillna("").replace("", "No Data")
-merged_df['originNIL'] = merged_df['originNIL'].fillna("").replace("", "No Data")
+merged_df['destinationNIL'] = merged_df['destination'].map(school_to_nil)
+merged_df['originNIL'] = merged_df['origin'].map(school_to_nil)
+
+# merged_df['originNIL'] = merged_df['originNIL'].fillna("").replace("", "No Data")
 # print(merged_df)
 # print(merged_df.info())
 # merged_df.drop(columns=['destinationNIL'], inplace=True)
-
+# NIL_df.to_csv('NILData/NIL.csv', index=False)
 merged_df.to_csv('RecruitsAndPortalData/modified_CFB_Portal_Data.csv', index=False)
 
