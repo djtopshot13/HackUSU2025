@@ -1,6 +1,7 @@
 - [**PFF Stat Key Documentation**](#pff-stat-key-documentation)
   - [Special Teams](#special-teams)
   - [Defense](#defense)
+  - [Offense\<\\u\>](#offenseu)
 # **PFF Stat Key Documentation**
 ## <u>Special Teams</u>
 - POS: Position
@@ -30,3 +31,6 @@
 - AST: Assisted tackle
 - MT: Missed tackle
 - STOP: Stops made (?)
+
+## <u>Offense<\u>
+- OFF: Offensive Snaps Played
