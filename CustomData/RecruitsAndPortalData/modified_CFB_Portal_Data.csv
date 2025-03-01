@@ -23,7 +23,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 21,2021,Nate,Howard,OT,South Alabama,"$479,267",none,none,2021-07-09T12:57:00.000Z,,3,Immediate
 22,2021,Devan,Barrett,RB,Auburn,"$11,588,953",none,none,2021-07-02T08:50:00.000Z,,4,Immediate
 23,2021,Tim,Glass,S,Liberty,,none,none,2021-07-01T13:20:00.000Z,,3,Immediate
-24,2021,Colby,Burton,CB,McNeese,,Hawaii,,2021-07-01T10:46:00.000Z,,2,Immediate
+24,2021,Colby,Burton,CB,McNeese,,Hawaii,"$1,051,850",2021-07-01T10:46:00.000Z,,2,Immediate
 25,2021,Cody,Shear,IOL,Arizona State,"$5,689,877",Syracuse,,2021-06-30T23:14:00.000Z,,3,Immediate
 26,2021,Darel,Middleton,DL,Tennessee,"$11,602,164",West Virginia,"$5,495,362",2021-06-30T14:30:00.000Z,0.81,3,Immediate
 27,2021,Devin,Aupiu,LB,Notre Dame,,UCLA,"$5,919,423",2021-06-29T17:16:00.000Z,0.83,3,Immediate
@@ -51,7 +51,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 49,2021,Brylan,Lanier,CB,Georgia State,"$781,177",Alabama,"$15,995,406",2021-06-23T17:26:00.000Z,,3,Immediate
 50,2021,David,Anderton,OT,South Florida,"$2,235,939",none,none,2021-06-23T16:12:00.000Z,,3,Immediate
 51,2021,Malachi,Wideman,WR,Tennessee,"$11,602,164",Jackson State,,2021-06-23T13:15:00.000Z,,4,TBD
-52,2021,Ahmad,Johnson,LB,Louisiana,,none,none,2021-06-23T11:39:00.000Z,,3,Immediate
+52,2021,Ahmad,Johnson,LB,Louisiana,"$1,284,835",none,none,2021-06-23T11:39:00.000Z,,3,Immediate
 53,2021,Armonie,Brown,DL,UTEP,,none,none,2021-06-23T09:56:00.000Z,,3,Immediate
 54,2021,Jack,Luckhurst,K,Arizona State,"$5,689,877",none,none,2021-06-23T09:53:00.000Z,,0,Immediate
 55,2021,Brayden,Fox,WR,Rutgers,"$3,624,816",Toledo,"$928,243",2021-06-22T16:10:00.000Z,,3,Immediate
@@ -64,7 +64,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 62,2021,Louis,Taylor,S,Liberty,,none,none,2021-06-16T14:05:00.000Z,,2,Immediate
 63,2021,Ryan,Kelley,QB,Arizona State,"$5,689,877",Eastern Washington,,2021-06-16T13:13:00.000Z,,3,Immediate
 64,2021,CJ,Parks,WR,Eastern Michigan,,none,none,2021-06-16T00:00:00.000Z,,3,Immediate
-65,2021,Mike,York,TE,UAB,,none,none,2021-06-16T00:00:00.000Z,,1,Immediate
+65,2021,Mike,York,TE,UAB,"$1,240,957",none,none,2021-06-16T00:00:00.000Z,,1,Immediate
 66,2021,Nigel,Knott,CB,East Carolina,"$2,887,971",Ole Miss,,2020-12-12T00:00:00.000Z,,4,TBD
 67,2021,Antonio,Greer,DL,Navy,,none,none,2021-06-15T00:00:00.000Z,,0,Immediate
 68,2021,Cameron,Threatt,CB,Mississippi State,,none,none,2021-06-15T00:00:00.000Z,,3,Immediate
@@ -156,7 +156,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 154,2021,Keith,Pearson,WR,Presbyterian College,,Charlotte,,2021-05-17T00:00:00.000Z,,0,Immediate
 155,2021,Qwynnterrio,Cole,CB,Alcorn State,,Louisville,"$9,443,439",2021-05-17T00:00:00.000Z,0.83,3,Immediate
 156,2021,Eric,Bentley,DL,Akron,,none,none,2021-05-17T00:00:00.000Z,,2,TBD
-157,2021,Michael,Jefferson,WR,Alabama State,,Louisiana,,2021-05-17T00:00:00.000Z,,0,TBD
+157,2021,Michael,Jefferson,WR,Alabama State,,Louisiana,"$1,284,835",2021-05-17T00:00:00.000Z,,0,TBD
 158,2021,Anthony,Laudicina,OT,Buffalo,"$348,600",none,none,2021-05-17T00:00:00.000Z,,2,TBD
 159,2021,Ronald,McGee,DL,Buffalo,"$348,600",Kansas,"$7,427,957",2021-05-17T00:00:00.000Z,,2,TBD
 160,2021,Jawon,Hamilton,RB,James Madison,"$1,207,786",Eastern Michigan,,2021-05-17T00:00:00.000Z,,3,Immediate
@@ -243,7 +243,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 241,2021,Jay,Hardy,DL,Auburn,"$11,588,953",none,none,2021-05-03T00:00:00.000Z,,4,TBD
 242,2021,Chayil,Garnett,QB,Auburn,"$11,588,953",Tennessee State,,2021-05-03T00:00:00.000Z,,3,Immediate
 243,2021,Justin,Stevens,OT,Michigan State,"$13,035,471",South Alabama,"$479,267",2021-05-03T00:00:00.000Z,,3,Immediate
-244,2021,Tony,Fair,DL,UAB,,Auburn,"$11,588,953",2021-05-03T00:00:00.000Z,,3,Immediate
+244,2021,Tony,Fair,DL,UAB,"$1,240,957",Auburn,"$11,588,953",2021-05-03T00:00:00.000Z,,3,Immediate
 245,2021,Valerian,Agbaw,ATH,Kansas,"$7,427,957",Charlotte,,2021-05-03T00:00:00.000Z,,3,TBD
 246,2021,Welton,Spottsville,S,North Carolina,"$8,355,617",Kennesaw State,,2021-05-03T00:00:00.000Z,,3,TBD
 247,2021,Valentin,Senn,OT,Colorado,"$5,337,719",Connecticut,,2021-05-03T00:00:00.000Z,,3,Immediate
@@ -333,7 +333,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 331,2021,Jacob,Nunez,IOL,Arizona State,"$5,689,877",Nevada,"$2,000,558",2021-04-14T00:00:00.000Z,,3,TBD
 332,2021,Curtis,Fann,EDGE,Florida State,"$10,034,191",none,none,2021-04-14T00:00:00.000Z,,4,TBD
 333,2021,Patrick,Nations,K,East Carolina,"$2,887,971",Eastern Kentucky,,2021-04-13T00:00:00.000Z,,2,Immediate
-334,2021,TJ,Jones,WR,Penn State,"$13,793,489",UAB,,2021-04-12T00:00:00.000Z,,3,Immediate
+334,2021,TJ,Jones,WR,Penn State,"$13,793,489",UAB,"$1,240,957",2021-04-12T00:00:00.000Z,,3,Immediate
 335,2021,Noah,Fenske,OG,Iowa,"$9,698,730",Colorado,"$5,337,719",2021-04-12T00:00:00.000Z,,3,Immediate
 336,2021,Trumayne,Guy,OT,Howard,,none,none,2021-04-11T00:00:00.000Z,,0,PendingAppeal
 337,2021,Zack,Kuntz,TE,Penn State,"$13,793,489",Old Dominion,"$2,389,384",2021-04-11T00:00:00.000Z,,4,Immediate
@@ -494,7 +494,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 492,2021,David,Adams,LB,Notre Dame,,Notre Dame,,2021-02-15T00:00:00.000Z,,4,Immediate
 493,2021,Ben,Davis,LB,Alabama,"$15,995,406",Texas,"$22,272,474",2021-02-15T00:00:00.000Z,0.8,3,Immediate
 494,2021,Jared,Reed,S,Utah State,"$1,511,795",Boise State,"$2,765,657",2021-02-12T00:00:00.000Z,,2,Immediate
-495,2021,Glenn,Beal,TE,Louisiana,,none,none,2021-02-12T00:00:00.000Z,,3,TBD
+495,2021,Glenn,Beal,TE,Louisiana,"$1,284,835",none,none,2021-02-12T00:00:00.000Z,,3,TBD
 496,2021,Keontae,Luckett,RB,Iowa,"$9,698,730",none,none,2021-02-12T00:00:00.000Z,,0,TBD
 497,2021,Ben,VanSumeren,LB,Michigan,"$16,357,054",Michigan State,"$13,035,471",2021-02-12T00:00:00.000Z,,3,Immediate
 498,2021,Madison,Cone,S,Wisconsin,"$8,982,406",Appalachian State,"$1,925,394",2021-02-11T00:00:00.000Z,,3,Immediate
@@ -516,7 +516,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 514,2021,Andrew,Clair,RB,Bowling Green,"$670,821",Northwestern,,2021-02-08T00:00:00.000Z,,3,TBD
 515,2021,Zach,Morton,LB,Syracuse,,none,none,2021-02-08T00:00:00.000Z,,3,TBD
 516,2021,Alec,Sinkfield,RB,West Virginia,"$5,495,362",Boston College,,2021-02-08T00:00:00.000Z,,3,TBD
-517,2021,Jalen,Mayala,EDGE,Indiana,"$13,631,160",UAB,,2021-02-07T00:00:00.000Z,,3,TBD
+517,2021,Jalen,Mayala,EDGE,Indiana,"$13,631,160",UAB,"$1,240,957",2021-02-07T00:00:00.000Z,,3,TBD
 518,2021,Sci,Martin,LB,Missouri,"$7,146,859",none,none,2021-02-05T00:00:00.000Z,,3,Immediate
 519,2021,Julius,Coates,DL,Arkansas,"$11,544,039",none,none,2021-02-05T00:00:00.000Z,,3,TBD
 520,2021,Matthew,Young,LB,New Mexico State,"$680,038",none,none,2021-02-05T00:00:00.000Z,,2,Immediate
@@ -527,7 +527,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 525,2021,Kaleb,Boateng,OT,Clemson,"$15,258,374",Florida,"$15,802,237",2021-02-03T10:10:00.000Z,,3,Immediate
 526,2021,Marques,Alexander,EDGE,Connecticut,,none,none,2021-02-03T00:00:00.000Z,,3,TBD
 527,2021,Jack,Dawson,QB,Troy,"$386,184",Jacksonville State,,2021-02-03T00:00:00.000Z,,0,TBD
-528,2021,Jacob,Kibodi,RB,Incarnate Word,,Louisiana,,2021-02-03T00:00:00.000Z,,3,TBD
+528,2021,Jacob,Kibodi,RB,Incarnate Word,,Louisiana,"$1,284,835",2021-02-03T00:00:00.000Z,,3,TBD
 529,2021,Walter,Neil,CB,Kansas State,"$7,121,436",UTEP,,2021-02-03T00:00:00.000Z,,0,Immediate
 530,2021,Zaid,Hamdan,DL,Ohio State,"$20,253,400",none,none,2021-02-03T00:00:00.000Z,,2,TBD
 531,2021,Hunter,Mayginnes,IOL,Washington State,"$3,216,991",none,none,2021-02-03T00:00:00.000Z,,3,TBD
@@ -685,7 +685,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 683,2021,Jalen,Graves,DL,UNLV,,none,none,2021-01-18T00:00:00.000Z,,2,TBD
 684,2021,Carthell,Flowers,CB,Eastern Michigan,,Stony Brook,,2021-01-18T00:00:00.000Z,,2,TBD
 685,2021,Gabriel,Cherry,DL,California,"$3,932,903",California,"$3,932,903",2021-01-18T00:00:00.000Z,,3,Immediate
-686,2021,Joe,Dillon,EDGE,Louisiana,,none,none,2021-01-18T00:00:00.000Z,,2,TBD
+686,2021,Joe,Dillon,EDGE,Louisiana,"$1,284,835",none,none,2021-01-18T00:00:00.000Z,,2,TBD
 687,2021,An'Darius,Coffey,CB,Memphis,"$2,634,877",Memphis,"$2,634,877",2021-01-16T00:00:00.000Z,,3,TBD
 688,2021,Austin,Ogunmakin,WR,North Texas,"$607,493",none,none,2021-01-16T00:00:00.000Z,,3,TBD
 689,2021,Kyron,McKinnie-Harper,CB,Central Michigan,,none,none,2021-01-15T12:01:00.000Z,,3,Immediate
@@ -731,7 +731,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 729,2021,Trevon,Sidney,WR,Illinois,"$9,311,667",San José State,,2021-01-13T00:00:00.000Z,,4,Immediate
 730,2021,Charles,Njoku,WR,UCLA,"$5,919,423",none,none,2021-01-13T00:00:00.000Z,,3,TBD
 731,2021,Kevon,Glenn,LB,Florida State,"$10,034,191",Troy,"$386,184",2021-01-13T00:00:00.000Z,,3,TBD
-732,2021,Jordan,Cordova,LB,Louisiana,,none,none,2021-01-13T00:00:00.000Z,,2,TBD
+732,2021,Jordan,Cordova,LB,Louisiana,"$1,284,835",none,none,2021-01-13T00:00:00.000Z,,2,TBD
 733,2021,Elijah,Shelton,LB,Utah State,"$1,511,795",none,none,2021-01-13T00:00:00.000Z,,2,TBD
 734,2021,Eddie,Smith,S,Alabama,"$15,995,406",Illinois,"$9,311,667",2021-01-13T00:00:00.000Z,0.82,3,TBD
 735,2021,Brian,Parish,OT,North Texas,"$607,493",UMass,,2021-01-13T00:00:00.000Z,,2,Immediate
@@ -759,7 +759,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 757,2021,James,Blackman,QB,Florida State,"$10,034,191",Arkansas State,"$1,207,619",2021-01-12T00:00:00.000Z,,3,TBD
 758,2021,James,Jackson,OC,Mississippi State,,South Alabama,"$479,267",2021-01-12T00:00:00.000Z,,3,Immediate
 759,2021,Micahh,Smith,S,Arkansas,"$11,544,039",none,none,2021-01-12T00:00:00.000Z,,3,Immediate
-760,2021,Jarrion,Street,S,UAB,,none,none,2021-01-11T00:00:00.000Z,,3,TBD
+760,2021,Jarrion,Street,S,UAB,"$1,240,957",none,none,2021-01-11T00:00:00.000Z,,3,TBD
 761,2021,Brandon,Spencer,CB,Florida Atlantic,"$1,308,349",none,none,2021-01-11T00:00:00.000Z,,0,TBD
 762,2021,Dee,Anderson,WR,Oklahoma State,"$5,338,583",Alabama A&M,,2021-01-11T00:00:00.000Z,,4,TBD
 763,2021,Jaylon,Worsham,CB,Florida Atlantic,"$1,308,349",none,none,2021-01-11T00:00:00.000Z,,0,TBD
@@ -792,7 +792,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 790,2021,Jalan,Robinson,OT,Kansas,"$7,427,957",none,none,2021-01-08T00:00:00.000Z,,3,TBD
 791,2021,MJ,Cunningham,LB,Oregon,"$10,623,807",Butler C.C.,,2021-01-08T00:00:00.000Z,,3,TBD
 792,2021,Javez,Alexander,WR,Michigan State,"$13,035,471",none,none,2021-01-08T00:00:00.000Z,,3,TBD
-793,2021,Charlie,Benton,LB,West Virginia,"$5,495,362",UAB,,2021-01-08T00:00:00.000Z,,3,TBD
+793,2021,Charlie,Benton,LB,West Virginia,"$5,495,362",UAB,"$1,240,957",2021-01-08T00:00:00.000Z,,3,TBD
 794,2021,Jeremy,Clark,WR,UNLV,,none,none,2021-01-08T00:00:00.000Z,,2,TBD
 795,2021,Patrice,Rene,CB,North Carolina,"$8,355,617",Rutgers,"$3,624,816",2021-01-08T00:00:00.000Z,0.82,3,Immediate
 796,2021,Leni,Toailoa,LB,UCLA,"$5,919,423",none,none,2021-01-08T00:00:00.000Z,,3,Immediate
@@ -813,8 +813,8 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 811,2021,Demetric,Hardin,WR,Middle Tennessee,,Fort Valley State,,2021-01-06T00:00:00.000Z,,0,TBD
 812,2021,Daniel,Imatorbhebhe,TE,Illinois,"$9,311,667",Kansas State,"$7,121,436",2021-01-06T00:00:00.000Z,0.83,3,Immediate
 813,2021,Tyrell,Shavers,WR,Mississippi State,,San Diego State,"$4,158,476",2021-01-06T00:00:00.000Z,0.81,3,TBD
-814,2021,Matthew,Anderson,OT,Nebraska,"$7,973,918",Louisiana,,2021-01-06T00:00:00.000Z,0.8,3,TBD
-815,2021,Lee,Witherspoon,RB,Mississippi State,,UAB,,2021-01-06T00:00:00.000Z,,3,TBD
+814,2021,Matthew,Anderson,OT,Nebraska,"$7,973,918",Louisiana,"$1,284,835",2021-01-06T00:00:00.000Z,0.8,3,TBD
+815,2021,Lee,Witherspoon,RB,Mississippi State,,UAB,"$1,240,957",2021-01-06T00:00:00.000Z,,3,TBD
 816,2021,Keshawn,Toney,TE,South Carolina,"$9,554,700",Chattanooga,,2021-01-06T00:00:00.000Z,,3,TBD
 817,2021,Bailey,Hockman,QB,NC State,,Middle Tennessee,,2021-01-06T00:00:00.000Z,0.82,3,TBD
 818,2021,Jordan,Moore,S,Houston,"$2,098,333",none,none,2021-01-06T00:00:00.000Z,,0,TBD
@@ -965,7 +965,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 963,2021,Quay,Mays,DL,West Virginia,"$5,495,362",Arkansas State,"$1,207,619",2020-12-23T00:00:00.000Z,,3,TBD
 964,2021,Clive,Truschel,IOL,Fresno State,"$2,102,800",Southeast Missouri State,,2020-12-23T00:00:00.000Z,,2,TBD
 965,2021,Triston,Miller,OT,North Carolina,"$8,355,617",Arizona State,"$5,689,877",2020-12-23T00:00:00.000Z,0.81,3,Immediate
-966,2021,Lance,LeGendre,QB,Maryland,"$3,735,112",Louisiana,,2020-12-23T00:00:00.000Z,0.81,3,TBD
+966,2021,Lance,LeGendre,QB,Maryland,"$3,735,112",Louisiana,"$1,284,835",2020-12-23T00:00:00.000Z,0.81,3,TBD
 967,2021,David,Nwaogwugwu,OT,Temple,,Rutgers,"$3,624,816",2020-12-23T00:00:00.000Z,0.8,3,TBD
 968,2021,Daniel,Carson,DL,Texas,"$22,272,474",Western Illinois,,2020-12-23T00:00:00.000Z,,3,TBD
 969,2021,Judge,Culpepper,DL,Penn State,"$13,793,489",Toledo,"$928,243",2020-12-23T00:00:00.000Z,,3,TBD
@@ -990,7 +990,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 988,2021,Luke,LaCilento,IOL,San Diego,,North Dakota State,,2020-12-21T00:00:00.000Z,,1,TBD
 989,2021,Logan,Clark,TE,Marshall,"$1,462,900",none,none,2020-12-21T00:00:00.000Z,,3,TBD
 990,2021,Jeffrey,Blake,LB,San Diego State,"$4,158,476",New Mexico,"$1,776,472",2020-12-21T00:00:00.000Z,,3,TBD
-991,2021,Myron,Mitchell,WR,UAB,,UAB,,2020-12-21T00:00:00.000Z,,3,Immediate
+991,2021,Myron,Mitchell,WR,UAB,"$1,240,957",UAB,"$1,240,957",2020-12-21T00:00:00.000Z,,3,Immediate
 992,2021,Dorian,Holloway,LB,Cincinnati,"$3,984,845",none,none,2020-12-21T00:00:00.000Z,,3,TBD
 993,2021,Jesiah,Pierre,LB,Florida,"$15,802,237",Texas Tech,"$6,986,182",2020-12-21T00:00:00.000Z,0.81,3,TBD
 994,2021,Terrance,Edgeston,LB,Houston,"$2,098,333",none,none,2020-12-21T00:00:00.000Z,,3,Immediate
@@ -1072,7 +1072,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1070,2021,Mark-Antony,Richards,RB,Auburn,"$11,588,953",UCF,,2020-12-16T00:00:00.000Z,,4,TBD
 1071,2021,Everitt,Cunningham,WDE,Memphis,"$2,634,877",Southern Mississippi,"$1,500,334",2020-12-16T00:00:00.000Z,,3,TBD
 1072,2021,Chibueze,Nwanna,OT,Arkansas,"$11,544,039",Charlotte,,2020-12-16T00:00:00.000Z,,3,TBD
-1073,2021,Ben,Wooldridge,QB,Fresno State,"$2,102,800",Louisiana,,2020-12-16T00:00:00.000Z,,2,TBD
+1073,2021,Ben,Wooldridge,QB,Fresno State,"$2,102,800",Louisiana,"$1,284,835",2020-12-16T00:00:00.000Z,,2,TBD
 1074,2021,JD,Harris,CB,Northern Illinois,"$506,195",none,none,2020-12-16T00:00:00.000Z,,2,TBD
 1075,2021,Amare,Jones,RB,Tulane,,Georgia Southern,"$844,462",2020-12-16T00:00:00.000Z,,3,TBD
 1076,2021,Kenyon,Sims,RB,Illinois,"$9,311,667",San José State,,2020-12-16T00:00:00.000Z,,3,Immediate
@@ -1139,7 +1139,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1137,2021,Anthony,Johnson,CB,Louisville,"$9,443,439",Virginia,"$12,780,300",2020-12-14T00:00:00.000Z,0.82,3,Immediate
 1138,2021,Russ,Yeast,S,Louisville,"$9,443,439",Kansas State,"$7,121,436",2020-12-14T00:00:00.000Z,0.82,3,Immediate
 1139,2021,Cory,Durden,DL,Florida State,"$10,034,191",NC State,,2020-12-14T00:00:00.000Z,0.82,3,TBD
-1140,2021,T.J.,Fiailoa,IOL,Louisiana Monroe,,Louisiana,,2020-12-14T00:00:00.000Z,0.81,3,Immediate
+1140,2021,T.J.,Fiailoa,IOL,Louisiana Monroe,,Louisiana,"$1,284,835",2020-12-14T00:00:00.000Z,0.81,3,Immediate
 1141,2021,Brandon,Johnson,WR,Tennessee,"$11,602,164",UCF,,2020-12-14T00:00:00.000Z,,3,Immediate
 1142,2021,Jawon,Pass,QB,Louisville,"$9,443,439",none,none,2020-12-14T00:00:00.000Z,,4,Immediate
 1143,2021,Emmanuel,Rugamba,CB,Miami (OH),,Miami (OH),,2020-12-13T00:00:00.000Z,,3,Immediate
@@ -1190,7 +1190,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1188,2021,Logan,Swartz,OT,Kent State,"$160,201",none,none,2020-12-07T00:00:00.000Z,,2,TBD
 1189,2021,Jelani,Foster,WR,Buffalo,"$348,600",Rhode Island,,2020-12-07T00:00:00.000Z,,2,TBD
 1190,2021,Maureese,Wren,LB,Texas State,"$599,058",none,none,2020-12-07T00:00:00.000Z,,3,TBD
-1191,2021,Clinton,Anokwuru,SDE,Kansas,"$7,427,957",Louisiana,,2020-12-07T00:00:00.000Z,,3,TBD
+1191,2021,Clinton,Anokwuru,SDE,Kansas,"$7,427,957",Louisiana,"$1,284,835",2020-12-07T00:00:00.000Z,,3,TBD
 1192,2021,Mike,McNicholas,IOL,Kent State,"$160,201",none,none,2020-12-07T00:00:00.000Z,,3,TBD
 1193,2021,Joseph,Honeysucker,EDGE,Memphis,"$2,634,877",Middle Tennessee,,2020-12-07T00:00:00.000Z,,3,TBD
 1194,2021,Jeremiah,Pruitte,WR,Colorado State,"$2,586,300",Florida A&M,,2020-12-07T00:00:00.000Z,,3,TBD
@@ -1241,7 +1241,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1239,2021,Kade,Renfro,QB,Ole Miss,,Arkansas,"$11,544,039",2020-12-02T00:00:00.000Z,,3,TBD
 1240,2021,Trevis,Hopper,DL,Memphis,"$2,634,877",none,none,2020-12-02T00:00:00.000Z,,3,TBD
 1241,2021,Devin,Larsen,QB,Iowa State,"$7,551,312",Garden City C.C.,,2020-12-02T00:00:00.000Z,,0,Immediate
-1242,2021,Brian,Smith,WR,Louisiana,,none,none,2020-12-02T00:00:00.000Z,,3,TBD
+1242,2021,Brian,Smith,WR,Louisiana,"$1,284,835",none,none,2020-12-02T00:00:00.000Z,,3,TBD
 1243,2021,Kedrick,James,TE,SMU,,Texas A&M Commerce,,2020-12-02T00:00:00.000Z,,4,TBD
 1244,2021,Kyle,Thompson,P,Kansas,"$7,427,957",none,none,2020-12-02T00:00:00.000Z,,0,Immediate
 1245,2021,John,Brannon,ILB,Texas State,"$599,058",Abilene Christian,,2020-12-02T00:00:00.000Z,,3,Immediate
@@ -1335,7 +1335,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1333,2021,Akil,Francisco,CB,Hawai'i,,none,none,2020-11-16T00:00:00.000Z,,2,TBD
 1334,2021,Will,Rodgers III,EDGE,Washington State,"$3,216,991",Temple,,2020-11-16T00:00:00.000Z,,3,Immediate
 1335,2021,Lamonte,McDougle,DL,Washington State,"$3,216,991",UTSA,"$1,058,313",2020-11-14T00:00:00.000Z,0.81,3,TBD
-1336,2021,Tyrone,Lewis,S,Kansas State,"$7,121,436",Louisiana,,2020-11-13T00:00:00.000Z,,3,TBD
+1336,2021,Tyrone,Lewis,S,Kansas State,"$7,121,436",Louisiana,"$1,284,835",2020-11-13T00:00:00.000Z,,3,TBD
 1337,2021,Kevin,Harris,OLB,Alabama,"$15,995,406",Georgia Tech,"$4,281,809",2020-11-13T00:00:00.000Z,0.82,3,TBD
 1338,2021,Tobias,Little,TE,Louisville,"$9,443,439",Missouri State,,2020-11-13T00:00:00.000Z,,3,Immediate
 1339,2021,Jamari,Stewart,EDGE,Mississippi State,,South Florida,"$2,235,939",2020-11-12T00:00:00.000Z,,3,TBD
@@ -1364,7 +1364,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1362,2021,Josh,Berry,RB,South Florida,"$2,235,939",Blinn College,,2020-11-09T00:00:00.000Z,,0,Immediate
 1363,2021,Savion,Williams,SDE,Tennessee,"$11,602,164",Florida A&M,,2020-11-09T00:00:00.000Z,,4,Immediate
 1364,2021,Daraun,McKinney,CB,Iowa,"$9,698,730",South Dakota,,2020-11-09T00:00:00.000Z,,3,TBD
-1365,2021,John,Stephens,WR,TCU,,Louisiana,,2020-11-09T00:00:00.000Z,,3,TBD
+1365,2021,John,Stephens,WR,TCU,,Louisiana,"$1,284,835",2020-11-09T00:00:00.000Z,,3,TBD
 1366,2021,Matthew,Flint,LB,North Carolina,"$8,355,617",Western Kentucky,"$870,548",2020-11-09T00:00:00.000Z,,3,TBD
 1367,2021,Ra'Von,Bonner,RB,Illinois,"$9,311,667",Temple,,2020-11-09T00:00:00.000Z,,3,Immediate
 1368,2021,Antwan,Collier,CB,UCF,,none,none,2020-11-09T00:00:00.000Z,,3,TBD
@@ -1391,7 +1391,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1389,2021,Keeath,Magee II,ILB,Texas A&M,"$17,228,714",College of Charleston,,2020-11-03T00:00:00.000Z,,2,Immediate
 1390,2021,Tyrik,Henderson,CB,Northern Illinois,"$506,195",none,none,2020-11-02T00:00:00.000Z,,3,TBD
 1391,2021,Terrance,Gipson,DUAL,SMU,,Blinn College,,2020-11-02T00:00:00.000Z,,0,Immediate
-1392,2021,Kevin,Davis,WR,UAB,,none,none,2020-11-02T00:00:00.000Z,,3,TBD
+1392,2021,Kevin,Davis,WR,UAB,"$1,240,957",none,none,2020-11-02T00:00:00.000Z,,3,TBD
 1393,2021,Bronson,Boyd,CB,Utah,"$7,252,969",none,none,2020-11-02T00:00:00.000Z,,3,TBD
 1394,2021,Zak,Simon,WR,UMass,,none,none,2020-11-02T00:00:00.000Z,,3,TBD
 1395,2021,Tank,Robinson,S,East Carolina,"$2,887,971",Charlotte,,2020-11-02T00:00:00.000Z,,3,Immediate
@@ -1453,7 +1453,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1451,2021,CJ,Boone,WR,Missouri,"$7,146,859",New Mexico,"$1,776,472",2020-10-12T00:00:00.000Z,,3,TBD
 1452,2021,Jaylen,Dixon,WR,Utah,"$7,252,969",Utah,"$7,252,969",2020-10-12T00:00:00.000Z,,3,Immediate
 1453,2021,Ethan,Rinke,WDE,Tennessee,"$11,602,164",South Alabama,"$479,267",2020-10-11T00:00:00.000Z,,3,Immediate
-1454,2021,Jayme,Simmons,OT,UAB,,none,none,2020-10-09T00:00:00.000Z,,3,TBD
+1454,2021,Jayme,Simmons,OT,UAB,"$1,240,957",none,none,2020-10-09T00:00:00.000Z,,3,TBD
 1455,2021,Antwuan,Branch,RB,North Carolina,"$8,355,617",none,none,2020-10-09T00:00:00.000Z,,3,TBD
 1456,2021,Eric,Cuffee,CB,New Mexico,"$1,776,472",none,none,2020-10-08T00:00:00.000Z,,3,Immediate
 1457,2021,Sione,Lund,ILB,Utah,"$7,252,969",none,none,2020-10-07T00:00:00.000Z,,4,TBD
@@ -1466,7 +1466,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1464,2021,Harold,Joiner,RB,Auburn,"$11,588,953",Michigan State,"$13,035,471",2020-10-06T00:00:00.000Z,0.81,3,Immediate
 1465,2021,Peter,Hayes-Patrick,RB,Akron,,none,none,2020-10-05T00:00:00.000Z,,3,TBD
 1466,2021,Andrew,Johnson,LB,Oregon,"$10,623,807",Georgia Southern,"$844,462",2020-10-04T00:00:00.000Z,,3,TBD
-1467,2021,Keilan,Knight,CB,UAB,,none,none,2020-10-02T00:00:00.000Z,,0,TBD
+1467,2021,Keilan,Knight,CB,UAB,"$1,240,957",none,none,2020-10-02T00:00:00.000Z,,0,TBD
 1468,2021,Osman,Savage,LB,Michigan,"$16,357,054",Alabama A&M,,2020-10-01T00:00:00.000Z,,4,TBD
 1469,2021,Chance,Cover,LB,Texas Tech,"$6,986,182",none,none,2020-10-01T00:00:00.000Z,,3,TBD
 1470,2021,Adam,Cousins,WR,UTEP,,none,none,2020-09-30T00:00:00.000Z,,2,TBD
@@ -1504,7 +1504,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1502,2021,Jamarcus,Chatman,DL,Florida State,"$10,034,191",Troy,"$386,184",2020-09-17T00:00:00.000Z,0.8,3,TBD
 1503,2021,Scott,Boylan,WR,Brown,,Duke,,2020-09-16T00:00:00.000Z,,0,Immediate
 1504,2021,Brandon,Taylor,DL,Penn State,"$13,793,489",none,none,2020-09-16T00:00:00.000Z,,3,TBD
-1505,2021,Reginald,Johnson,WR,Louisiana,,none,none,2020-09-16T00:00:00.000Z,,3,TBD
+1505,2021,Reginald,Johnson,WR,Louisiana,"$1,284,835",none,none,2020-09-16T00:00:00.000Z,,3,TBD
 1506,2021,Jackson,Lowe,TE,Tennessee,"$11,602,164",Jacksonville State,,2020-09-16T00:00:00.000Z,,4,Immediate
 1507,2021,Robert,King,CB,Connecticut,,none,none,2020-09-16T00:00:00.000Z,,2,TBD
 1508,2021,Carson,Welch,QB,SMU,,none,none,2020-09-15T00:00:00.000Z,,3,TBD
@@ -1513,7 +1513,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1511,2021,Rashaad,Harding,LB,Louisiana Monroe,,Liberty,,2020-09-15T00:00:00.000Z,,3,TBD
 1512,2021,Isaiah,Bolden,WR,Florida State,"$10,034,191",Jackson State,,2020-09-15T00:00:00.000Z,,4,TBD
 1513,2021,Tre,Douglas,S,Vanderbilt,,Coastal Carolina,"$367,676",2020-09-15T00:00:00.000Z,,3,TBD
-1514,2021,Clifton,McDowell,QB,Louisiana,,none,none,2020-09-14T00:00:00.000Z,,3,TBD
+1514,2021,Clifton,McDowell,QB,Louisiana,"$1,284,835",none,none,2020-09-14T00:00:00.000Z,,3,TBD
 1515,2021,Cosmas,Kwete,OLB,Washington State,"$3,216,991",Northern Arizona,,2020-09-14T00:00:00.000Z,,3,TBD
 1516,2021,James,Foster,DUAL,Texas A&M,"$17,228,714",Charlotte,,2020-09-14T00:00:00.000Z,0.8,3,TBD
 1517,2021,Tae,Daley,S,Vanderbilt,,Virginia Tech,"$7,732,903",2020-09-14T00:00:00.000Z,0.82,3,Immediate
@@ -1572,7 +1572,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1570,2021,Jaquan,Yulee,LB,Marshall,"$1,462,900",none,none,2020-08-21T00:00:00.000Z,,4,TBD
 1571,2021,Emmanuel,Jones,EDGE,Colorado State,"$2,586,300",Colorado State,"$2,586,300",2020-08-21T00:00:00.000Z,,2,TBD
 1572,2021,Tyrese,Mack,WR,Utah State,"$1,511,795",Nevada,"$2,000,558",2020-08-20T00:00:00.000Z,,0,TBD
-1573,2021,Jordan,Jones,LB,UAB,,none,none,2020-08-20T00:00:00.000Z,,2,TBD
+1573,2021,Jordan,Jones,LB,UAB,"$1,240,957",none,none,2020-08-20T00:00:00.000Z,,2,TBD
 1574,2021,Shannon,Carswell,DL,Southern Mississippi,"$1,500,334",none,none,2020-08-20T00:00:00.000Z,,3,TBD
 1575,2021,Gilberto,Torres,RB,UMass,,none,none,2020-08-20T00:00:00.000Z,,0,TBD
 1576,2021,Dontae,Keys,IOL,North Carolina A&T,,none,none,2020-08-19T00:00:00.000Z,,0,TBD
@@ -1581,7 +1581,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1579,2021,RJ,Harvey Jr.,DUAL,Virginia,"$12,780,300",UCF,,2020-08-19T00:00:00.000Z,,3,TBD
 1580,2021,John,Olmstead,OT,Notre Dame,,Lafayette,,2020-08-19T00:00:00.000Z,,4,TBD
 1581,2021,Colin,Schooler,LB,Arizona,"$6,414,683",Texas Tech,"$6,986,182",2020-08-19T00:00:00.000Z,,3,Immediate
-1582,2021,Justin,Thomas,DL,LSU,"$20,137,141",UAB,,2020-08-19T00:00:00.000Z,0.8,3,TBD
+1582,2021,Justin,Thomas,DL,LSU,"$20,137,141",UAB,"$1,240,957",2020-08-19T00:00:00.000Z,0.8,3,TBD
 1583,2021,Romel,Goston,CB,Northern Illinois,"$506,195",none,none,2020-08-18T00:00:00.000Z,,3,TBD
 1584,2021,Javasia,Brunson,DL,Nevada,"$2,000,558",none,none,2020-08-18T00:00:00.000Z,,3,TBD
 1585,2021,Trey,McBride,TE,Colorado State,"$2,586,300",Colorado State,"$2,586,300",2020-08-18T00:00:00.000Z,,3,TBD
@@ -1824,7 +1824,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1822,2022,William,Rogers,DL,South Carolina,"$9,554,700",McNeese,,2022-04-19T13:11:00.000Z,,3,Immediate
 1823,2022,Darrell,Jackson,DL,Maryland,"$3,735,112",Miami,,2022-04-07T20:20:00.000Z,0.88,3,Immediate
 1824,2022,Garrett,Williams,CB,Temple,,Fordham,,2022-04-22T22:01:00.000Z,,3,Immediate
-1825,2022,Tyler,Brown,IOL,Louisiana,,none,none,2022-03-25T12:15:00.000Z,,2,Immediate
+1825,2022,Tyler,Brown,IOL,Louisiana,"$1,284,835",none,none,2022-03-25T12:15:00.000Z,,2,Immediate
 1826,2022,Darius,Edmonds,WR,Houston,"$2,098,333",none,none,2022-04-18T21:18:00.000Z,,3,Immediate
 1827,2022,Jack,Buford,OT,Arizona,"$6,414,683",Lindenwood University,,2022-07-16T18:50:00.000Z,,4,Immediate
 1828,2022,Carson,Lee,IOL,Colorado,"$5,337,719",none,none,2022-04-08T22:18:00.000Z,,3,Immediate
@@ -1861,7 +1861,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1859,2022,Jed,Castles,TE,Texas Tech,"$6,986,182",Abilene Christian,,2022-04-10T17:31:00.000Z,,3,Immediate
 1860,2022,Emery,Simmons,WR,North Carolina,"$8,355,617",Indiana,"$13,631,160",2021-11-02T20:14:00.000Z,0.82,3,Immediate
 1861,2022,Iesa,Jarmon,CB,Cincinnati,"$3,984,845",Buffalo,"$348,600",2022-04-30T14:45:00.000Z,,3,Immediate
-1862,2022,Bobby,Holmes,CB,Louisiana,,none,none,2021-11-19T20:14:00.000Z,0.79,2,Immediate
+1862,2022,Bobby,Holmes,CB,Louisiana,"$1,284,835",none,none,2021-11-19T20:14:00.000Z,0.79,2,Immediate
 1863,2022,Troy,dela Vega,TE,Utah State,"$1,511,795",none,none,2022-05-01T02:49:00.000Z,,2,Immediate
 1864,2022,Sam,Pinckney,WR,Georgia State,"$781,177",Coastal Carolina,"$367,676",2021-12-27T09:27:00.000Z,,3,Immediate
 1865,2022,Wesley,Walker,S,Georgia Tech,"$4,281,809",Tennessee,"$11,602,164",2022-02-21T17:56:00.000Z,0.87,3,Immediate
@@ -1961,7 +1961,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 1959,2022,Joey,Yellen,QB,Pittsburgh,,Hawai'i,,2022-04-29T20:28:00.000Z,,4,Immediate
 1960,2022,Myron,Warren,DL,Texas,"$22,272,474",Texas State,"$599,058",2022-04-26T05:00:00.000Z,,4,Immediate
 1961,2022,Corey,Robinson II,OT,Kansas,"$7,427,957",Georgia Tech,"$4,281,809",2022-04-15T16:56:00.000Z,,3,Immediate
-1962,2022,AJ,Davis,WR,UAB,,none,none,2022-05-20T16:05:00.000Z,,3,Immediate
+1962,2022,AJ,Davis,WR,UAB,"$1,240,957",none,none,2022-05-20T16:05:00.000Z,,3,Immediate
 1963,2022,Sione,Veikoso,IOL,Arizona State,"$5,689,877",none,none,2022-05-03T18:41:00.000Z,,2,Immediate
 1964,2022,Stacy,Brown,S,Missouri,"$7,146,859",none,none,2022-04-30T19:43:00.000Z,,3,Immediate
 1965,2022,Isaiah,Wright,IOL,Rutgers,"$3,624,816",Buffalo,"$348,600",2022-05-02T18:54:00.000Z,,3,Immediate
@@ -2030,7 +2030,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 2028,2022,Jadarius,Thursby,S,SMU,,Abilene Christian,,2022-04-28T20:43:00.000Z,,3,Immediate
 2029,2022,Josh,White,LB,LSU,"$20,137,141",Baylor,,2022-03-28T22:06:00.000Z,0.89,3,Immediate
 2030,2022,Jaelyn,Lay,TE,Clemson,"$15,258,374",Alabama State,,2022-01-02T21:10:00.000Z,0.84,3,Immediate
-2031,2022,Kamryn,Waites,OT,Louisiana,,Florida,"$15,802,237",2021-12-21T19:01:00.000Z,0.91,4,Immediate
+2031,2022,Kamryn,Waites,OT,Louisiana,"$1,284,835",Florida,"$15,802,237",2021-12-21T19:01:00.000Z,0.91,4,Immediate
 2032,2022,Teivis,Tuioti,DL,Nevada,"$2,000,558",none,none,2021-12-08T20:54:00.000Z,,3,Immediate
 2033,2022,Ramon,Jefferson,RB,Sam Houston State,"$238,669",Kentucky,"$11,254,204",2022-01-31T19:22:00.000Z,0.9,4,Immediate
 2034,2022,Kyle,McNamara,WR,Western Kentucky,"$870,548",none,none,2022-01-25T20:53:00.000Z,,2,Immediate
@@ -2051,7 +2051,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 2049,2022,Ja'Maurion,Franklin,EDGE,East Carolina,"$2,887,971",none,none,2022-06-23T00:12:00.000Z,,3,Immediate
 2050,2022,Drayton,Charlton-Perrin,TE,Ball State,"$341,183",none,none,2022-04-20T13:58:00.000Z,,3,Immediate
 2051,2022,Peace,Addo,OT,Duke,,Temple,,2022-04-20T23:12:00.000Z,,3,Immediate
-2052,2022,Jamal,Bell,WR,Louisiana,,Louisiana,,2021-11-22T22:38:00.000Z,0.81,3,Immediate
+2052,2022,Jamal,Bell,WR,Louisiana,"$1,284,835",Louisiana,"$1,284,835",2021-11-22T22:38:00.000Z,0.81,3,Immediate
 2053,2022,Kalvin,Hutchings,DL,North Texas,"$607,493",none,none,2022-04-28T18:26:00.000Z,,3,Immediate
 2054,2022,Chaton,Mobley,RB,Middle Tennessee,,none,none,2022-01-11T00:15:00.000Z,0.82,3,Immediate
 2055,2022,Quan,Easterling,ATH,Wisconsin,"$8,982,406",Duquesne,,2021-12-14T17:15:00.000Z,0.79,2,Immediate
@@ -2217,7 +2217,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 2215,2022,Myles,Baker,CB,Coastal Carolina,"$367,676",none,none,2021-12-22T20:54:00.000Z,,2,Immediate
 2216,2022,Cody,Jackson,WR,Oklahoma,"$14,817,595",Houston,"$2,098,333",2022-04-25T17:25:00.000Z,0.9,4,Immediate
 2217,2022,Jaylen,Lane,S,UNLV,,none,none,2022-04-29T16:03:00.000Z,,3,Immediate
-2218,2022,Clinton,Anokwuru,DL,Louisiana,,none,none,2022-05-12T20:56:00.000Z,,3,Immediate
+2218,2022,Clinton,Anokwuru,DL,Louisiana,"$1,284,835",none,none,2022-05-12T20:56:00.000Z,,3,Immediate
 2219,2022,Latrell,Neville,WR,Nebraska,"$7,973,918",North Texas,"$607,493",2022-04-29T17:05:00.000Z,,3,Immediate
 2220,2022,Darrell,Simpson,OT,Oklahoma,"$14,817,595",Tulsa,,2022-05-24T22:06:00.000Z,,4,Immediate
 2221,2022,Deondre,Dansby,CB,Houston,"$2,098,333",none,none,2022-05-12T15:21:00.000Z,,3,Immediate
@@ -2229,7 +2229,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 2227,2022,Kyler,Baugh,DL,Houston Christian,,Minnesota,"$7,171,424",2022-04-18T15:19:00.000Z,,0,Immediate
 2228,2022,Donte,Small,CB,Appalachian State,"$1,925,394",none,none,2022-01-11T18:07:00.000Z,,0,Immediate
 2229,2022,J'Vian,McCray,DL,East Carolina,"$2,887,971",Austin Peay,,2022-04-12T19:49:00.000Z,,3,Immediate
-2230,2022,Lorenzo,McCaskill,LB,Louisiana,,Kansas,"$7,427,957",2022-01-15T00:53:00.000Z,0.88,3,Immediate
+2230,2022,Lorenzo,McCaskill,LB,Louisiana,"$1,284,835",Kansas,"$7,427,957",2022-01-15T00:53:00.000Z,0.88,3,Immediate
 2231,2022,Michael,Edwards,LB,Georgia Southern,"$844,462",East Carolina,"$2,887,971",2022-04-26T16:02:00.000Z,,3,Immediate
 2232,2022,Zackary,Martin,RB,Louisiana Monroe,,Louisiana Monroe,,2021-11-30T21:04:00.000Z,0.77,2,Immediate
 2233,2022,Corey,Kiner,RB,LSU,"$20,137,141",Cincinnati,"$3,984,845",2022-04-18T22:09:00.000Z,0.9,4,Immediate
@@ -2297,7 +2297,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 2295,2022,Brian,Holloway,LB,SMU,,none,none,2022-04-29T20:38:00.000Z,,2,Immediate
 2296,2022,Carlos,Sandy,WR,Illinois,"$9,311,667",none,none,2022-01-24T15:51:00.000Z,0.84,3,Immediate
 2297,2022,Shai,Kochav,LS,Arkansas State,"$1,207,619",Louisville,"$9,443,439",2022-05-23T15:36:00.000Z,,0,Immediate
-2298,2022,Kyren,Lacy,WR,Louisiana,,LSU,"$20,137,141",2022-01-14T14:40:00.000Z,0.89,3,Immediate
+2298,2022,Kyren,Lacy,WR,Louisiana,"$1,284,835",LSU,"$20,137,141",2022-01-14T14:40:00.000Z,0.89,3,Immediate
 2299,2022,Kyle,Dobbins,RB,Temple,,Western Illinois,,2022-04-22T15:46:00.000Z,,3,Immediate
 2300,2022,Demetrius,Cannon,WR,Louisville,"$9,443,439",none,none,2022-01-04T21:21:00.000Z,0.85,3,Immediate
 2301,2022,Darrian,Felix,RB,South Florida,"$2,235,939",none,none,2022-01-31T18:14:00.000Z,,3,Immediate
@@ -2420,7 +2420,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 2418,2022,Daymon,David,S,Oregon,"$10,623,807",Oregon,"$10,623,807",2022-05-06T00:58:00.000Z,,4,Immediate
 2419,2022,Tre'von,Marshall,EDGE,Mississippi State,,none,none,2022-06-22T01:37:00.000Z,,3,Immediate
 2420,2022,MJ,Anderson,DL,Minnesota,"$7,171,424",Iowa State,"$7,551,312",2021-11-21T16:47:00.000Z,0.82,3,Immediate
-2421,2022,James,Ohonba,IOL,Michigan State,"$13,035,471",Louisiana,,2022-02-02T17:40:00.000Z,,3,Immediate
+2421,2022,James,Ohonba,IOL,Michigan State,"$13,035,471",Louisiana,"$1,284,835",2022-02-02T17:40:00.000Z,,3,Immediate
 2422,2022,Ja'Veon,Marlow,RB,Vanderbilt,,none,none,2022-01-21T20:04:00.000Z,,3,Immediate
 2423,2022,Tenyeh,Dixon,CB,Virginia,"$12,780,300",Elizabeth City State,,2021-10-25T22:08:00.000Z,0.79,2,Immediate
 2424,2022,Willie,Reid,S,Central Michigan,,none,none,2021-10-27T17:33:00.000Z,0.83,3,Immediate
@@ -2550,7 +2550,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 2548,2022,Morven,Joseph,LB,Tennessee,"$11,602,164",Florida Atlantic,"$1,308,349",2021-11-08T14:58:00.000Z,0.85,3,Immediate
 2549,2022,Caleb,Chapman,WR,Texas A&M,"$17,228,714",Oregon,"$10,623,807",2022-04-11T20:15:00.000Z,,4,Immediate
 2550,2022,Peyton,Thompson,QB,Oklahoma State,"$5,338,583",Central Oklahoma,,2022-05-03T16:29:00.000Z,,3,Immediate
-2551,2022,O'Cyrus,Torrence,IOL,Louisiana,,Florida,"$15,802,237",2022-01-01T00:13:00.000Z,0.92,4,Immediate
+2551,2022,O'Cyrus,Torrence,IOL,Louisiana,"$1,284,835",Florida,"$15,802,237",2022-01-01T00:13:00.000Z,0.92,4,Immediate
 2552,2022,Kyle,Toole,QB,Troy,"$386,184",Georgia Southern,"$844,462",2022-04-05T13:55:00.000Z,,3,Immediate
 2553,2022,Samson,Jackson,OT,Ohio,"$509,427",none,none,2021-12-20T20:54:00.000Z,,2,Immediate
 2554,2022,Eddie,Smith,S,Illinois,"$9,311,667",Arkansas State,"$1,207,619",2021-11-29T22:19:00.000Z,0.82,3,Immediate
@@ -2644,7 +2644,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 2642,2022,Myles,McNeal,CB,Eastern Michigan,,none,none,2021-10-29T23:49:00.000Z,0.79,2,Immediate
 2643,2022,Juan,Harris,DL,Indiana,"$13,631,160",none,none,2021-08-04T17:01:00.000Z,0.79,2,Immediate
 2644,2022,Luke,Akers,P,UCLA,"$5,919,423",Northwestern,,2021-11-30T16:43:00.000Z,0.84,3,Immediate
-2645,2022,Kundarrius,Taylor,WR,UAB,,none,none,2021-12-16T19:42:00.000Z,,3,Immediate
+2645,2022,Kundarrius,Taylor,WR,UAB,"$1,240,957",none,none,2021-12-16T19:42:00.000Z,,3,Immediate
 2646,2022,Josh,Watts,P,Colorado,"$5,337,719",none,none,2022-01-18T16:42:00.000Z,,3,Immediate
 2647,2022,Jonathan,Shepherd,WR,Oklahoma State,"$5,338,583",none,none,2022-01-19T17:06:00.000Z,0.85,3,Immediate
 2648,2022,Leo,Parker,RB,South Florida,"$2,235,939",none,none,2021-11-02T15:30:00.000Z,,3,Immediate
@@ -2689,7 +2689,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 2687,2022,Lucas,Dunker Jr.,K,Washington State,"$3,216,991",none,none,2022-02-11T17:12:00.000Z,,0,Immediate
 2688,2022,Jahquan,Bloomfield,WR,Louisiana Monroe,,none,none,2022-01-18T14:46:00.000Z,,2,Immediate
 2689,2022,Derrick,Smith,S,Illinois,"$9,311,667",Western Kentucky,"$870,548",2021-11-02T21:44:00.000Z,0.8,3,Immediate
-2690,2022,Kobe,Hylton,S,Louisiana,,UTEP,,2021-12-15T19:21:00.000Z,0.79,2,Immediate
+2690,2022,Kobe,Hylton,S,Louisiana,"$1,284,835",UTEP,,2021-12-15T19:21:00.000Z,0.79,2,Immediate
 2691,2022,Jerrod,Means,WR,Louisiana Tech,,Pittsburgh,,2022-04-11T13:38:00.000Z,0.87,3,Immediate
 2692,2022,Antoine,Robinson,WR,Southern Mississippi,"$1,500,334",none,none,2021-10-25T16:42:00.000Z,,3,Immediate
 2693,2022,Mark,Davis,CB,Buffalo,"$348,600",none,none,2021-10-26T18:05:00.000Z,0.79,2,Immediate
@@ -3008,7 +3008,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3006,2022,Marquis,Robinson,DL,Auburn,"$11,588,953",none,none,2022-01-27T15:40:00.000Z,0.88,3,Immediate
 3007,2022,Dillon,Markiewicz,QB,Syracuse,,Texas State,"$599,058",2022-01-17T15:31:00.000Z,0.8,3,Immediate
 3008,2022,Sevyn,Banks,CB,Ohio State,"$20,253,400",LSU,"$20,137,141",2022-02-03T15:57:00.000Z,0.88,3,Immediate
-3009,2022,Montrell,Johnson,RB,Louisiana,,Florida,"$15,802,237",2022-01-05T20:13:00.000Z,0.9,4,Immediate
+3009,2022,Montrell,Johnson,RB,Louisiana,"$1,284,835",Florida,"$15,802,237",2022-01-05T20:13:00.000Z,0.9,4,Immediate
 3010,2022,Will,Latu,LB,Washington,"$9,406,794",none,none,2021-12-27T19:12:00.000Z,,4,Immediate
 3011,2022,Cam'Ron,Ransom,QB,Georgia Southern,"$844,462",none,none,2022-04-26T16:04:00.000Z,,3,Immediate
 3012,2022,Brock,Sturges,RB,Texas State,"$599,058",none,none,2021-11-22T14:55:00.000Z,0.8,3,Immediate
@@ -3028,7 +3028,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3026,2022,Isaiah,Velez,QB,Florida International,"$229,930",none,none,2022-04-04T13:25:00.000Z,,3,Immediate
 3027,2022,Paul,Tyson,QB,Alabama,"$15,995,406",Arizona State,"$5,689,877",2022-01-12T00:26:00.000Z,0.85,3,Immediate
 3028,2022,Marcus,Banks,CB,Alabama,"$15,995,406",Mississippi State,,2021-11-08T16:09:00.000Z,0.89,3,Immediate
-3029,2022,Mekhi,Williams-Garner,S,Louisiana,,LSU,"$20,137,141",2022-01-12T03:05:00.000Z,0.89,3,Immediate
+3029,2022,Mekhi,Williams-Garner,S,Louisiana,"$1,284,835",LSU,"$20,137,141",2022-01-12T03:05:00.000Z,0.89,3,Immediate
 3030,2022,Antonio,Fletcher,S,Arkansas State,"$1,207,619",Southern Illinois,,2021-11-30T21:46:00.000Z,0.81,3,Immediate
 3031,2022,Benny,McCray IV,CB,Florida International,"$229,930",none,none,2021-11-29T06:00:00.000Z,0.81,3,TBD
 3032,2022,Ben,VanSumeren,LB,Michigan State,"$13,035,471",Michigan State,"$13,035,471",2022-03-14T16:35:00.000Z,,3,Immediate
@@ -3068,7 +3068,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3066,2022,Jerome,Buckner,WR,Ohio,"$509,427",none,none,2021-10-25T17:05:00.000Z,,2,Immediate
 3067,2022,Nick,D'Ambra,ATH,Western Illinois,,Fresno State,"$2,102,800",2022-01-02T01:50:00.000Z,,0,Immediate
 3068,2022,Quinn,Ewers,QB,Ohio State,"$20,253,400",Texas,"$22,272,474",2021-12-04T01:45:00.000Z,1.0,5,Immediate
-3069,2022,Lucious,Stanley,RB,UAB,,none,none,2021-12-07T16:44:00.000Z,,0,Immediate
+3069,2022,Lucious,Stanley,RB,UAB,"$1,240,957",none,none,2021-12-07T16:44:00.000Z,,0,Immediate
 3070,2022,J'Marion,Gooch,OT,Missouri,"$7,146,859",none,none,2021-09-07T16:44:00.000Z,0.82,3,Immediate
 3071,2022,Todd,Centeio,QB,Colorado State,"$2,586,300",James Madison,"$1,207,786",2021-12-15T03:27:00.000Z,,3,Immediate
 3072,2022,Devonta,Lee,WR,LSU,"$20,137,141",Louisiana Tech,,2022-01-15T00:51:00.000Z,,4,Immediate
@@ -3269,12 +3269,12 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3267,2022,D.J.,Taylor,LB,Wake Forest,,Bowling Green,"$670,821",2021-12-27T21:35:00.000Z,,3,Immediate
 3268,2022,Marist,Talavou,IOL,Utah,"$7,252,969",San José State,,2022-04-28T22:24:00.000Z,,3,Immediate
 3269,2022,Grant,Wells,QB,Marshall,"$1,462,900",Virginia Tech,"$7,732,903",2022-01-03T16:16:00.000Z,0.87,3,Immediate
-3270,2022,Shauntavis,Vardaman,OT,UAB,,none,none,2021-12-07T16:48:00.000Z,,0,Immediate
+3270,2022,Shauntavis,Vardaman,OT,UAB,"$1,240,957",none,none,2021-12-07T16:48:00.000Z,,0,Immediate
 3271,2022,C.J.,Hayes,WR,Michigan State,"$13,035,471",Syracuse,,2021-12-06T20:54:00.000Z,0.81,3,Immediate
 3272,2022,Noah,Bean,TE,UNLV,,none,none,2021-12-07T20:54:00.000Z,,3,Immediate
 3273,2022,Khoury,Bethley,S,Hawai'i,,Arizona State,"$5,689,877",2022-01-15T23:06:00.000Z,0.89,3,Immediate
 3274,2022,Jacob,Brammer,OT,North Texas,"$607,493",Vanderbilt,,2022-01-26T20:59:00.000Z,0.86,3,Immediate
-3275,2022,Emani,Bailey,RB,Louisiana,,TCU,,2022-01-06T17:39:00.000Z,0.9,4,Immediate
+3275,2022,Emani,Bailey,RB,Louisiana,"$1,284,835",TCU,,2022-01-06T17:39:00.000Z,0.9,4,Immediate
 3276,2022,Shermond,Dabney,S,Bowling Green,"$670,821",none,none,2022-02-18T15:36:00.000Z,,2,Immediate
 3277,2022,Rhett,Reilly,QB,BYU,,none,none,2021-12-31T21:06:00.000Z,,0,Immediate
 3278,2022,Jakari,Norwood,RB,Illinois,"$9,311,667",Temple,,2022-01-24T22:32:00.000Z,0.84,3,Immediate
@@ -3311,7 +3311,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3309,2022,Frank,Ladson,WR,Clemson,"$15,258,374",Miami,,2021-12-03T20:56:00.000Z,0.87,3,Immediate
 3310,2022,Isaac,Ellis,IOL,Memphis,"$2,634,877",Louisiana Tech,,2021-12-15T14:06:00.000Z,0.83,3,Immediate
 3311,2022,Knox,Kadum,QB,Virginia Tech,"$7,732,903",McNeese,,2021-12-01T14:21:00.000Z,0.83,3,Immediate
-3312,2022,Jalen,Rayam,LB,UAB,,none,none,2022-01-31T21:52:00.000Z,,3,Immediate
+3312,2022,Jalen,Rayam,LB,UAB,"$1,240,957",none,none,2022-01-31T21:52:00.000Z,,3,Immediate
 3313,2022,Jakovi,Bryant,CB,Florida International,"$229,930",none,none,2021-11-08T19:40:00.000Z,0.79,2,Immediate
 3314,2022,TJ,Banks,TE,West Virginia,"$5,495,362",Akron,,2021-12-08T22:02:00.000Z,0.84,3,Immediate
 3315,2022,Dylan,Deveney,TE,Georgia Tech,"$4,281,809",Pittsburgh,,2022-04-02T22:53:00.000Z,,3,Immediate
@@ -3359,7 +3359,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3357,2022,Chris,Adimora,S,Texas,"$22,272,474",SMU,,2021-12-10T15:37:00.000Z,0.87,3,Immediate
 3358,2022,Walker,Hankinson,OT,Louisiana Tech,,none,none,2021-08-11T15:45:00.000Z,,2,Immediate
 3359,2022,Jacob,Cowing,WR,UTEP,,Arizona,"$6,414,683",2021-12-21T22:23:00.000Z,0.92,4,Immediate
-3360,2022,Matthew,Anderson,OT,Louisiana,,none,none,2021-11-03T19:35:00.000Z,0.79,2,Immediate
+3360,2022,Matthew,Anderson,OT,Louisiana,"$1,284,835",none,none,2021-11-03T19:35:00.000Z,0.79,2,Immediate
 3361,2022,Noah,Arinze,EDGE,Oklahoma,"$14,817,595",New Mexico State,"$680,038",2022-05-03T13:55:00.000Z,,3,Immediate
 3362,2022,Leke,Asenuga,IOL,New Mexico,"$1,776,472",North Texas,"$607,493",2022-01-10T19:32:00.000Z,0.82,3,Immediate
 3363,2022,Chris,Murray,DL,TCU,,Sam Houston State,"$238,669",2021-12-15T22:09:00.000Z,,3,Immediate
@@ -3451,7 +3451,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3449,2022,Dre,Terry,EDGE,East Carolina,"$2,887,971",Alabama A&M,,2021-12-26T16:01:00.000Z,,0,Immediate
 3450,2022,Cameron,Roseman-Sinclair,S,North Carolina,"$8,355,617",none,none,2022-03-22T15:12:00.000Z,,4,Immediate
 3451,2022,Spencer,Gilbert,LB,USC,,none,none,2021-11-29T19:24:00.000Z,0.79,2,Immediate
-3452,2022,Trea,Shropshire,WR,UAB,,none,none,2022-01-12T17:45:00.000Z,,3,Immediate
+3452,2022,Trea,Shropshire,WR,UAB,"$1,240,957",none,none,2022-01-12T17:45:00.000Z,,3,Immediate
 3453,2022,Kenneth,Dotson,DL,North Texas,"$607,493",none,none,2021-12-23T20:54:00.000Z,,3,Immediate
 3454,2022,Chris,Shearin,CB,Missouri,"$7,146,859",none,none,2021-11-29T14:01:00.000Z,0.81,3,Immediate
 3455,2022,Timar,Rogers,LB,Mississippi State,,Middle Tennessee,,2022-04-28T14:32:00.000Z,,3,Immediate
@@ -3591,7 +3591,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3589,2022,Jake,Marion,K,Georgia State,"$781,177",Elon,,2021-10-15T16:11:00.000Z,,2,Immediate
 3590,2022,James,Faminu,OT,Houston,"$2,098,333",Temple,,2022-01-12T22:03:00.000Z,0.79,2,Immediate
 3591,2022,Tim,Horn,K,Washington,"$9,406,794",Rice,,2021-10-07T20:23:00.000Z,0.82,3,Immediate
-3592,2022,RaJae,Johnson,WR,UAB,,Troy,"$386,184",2021-12-06T20:11:00.000Z,0.84,3,Immediate
+3592,2022,RaJae,Johnson,WR,UAB,"$1,240,957",Troy,"$386,184",2021-12-06T20:11:00.000Z,0.84,3,Immediate
 3593,2022,Tylus,Hancock,CB,Florida State,"$10,034,191",none,none,2021-12-20T15:45:00.000Z,,0,Immediate
 3594,2022,Champ,Flemings,WR,Oregon State,"$3,163,423",Arkansas State,"$1,207,619",2022-01-26T20:09:00.000Z,0.83,3,Immediate
 3595,2022,William,Racely,IOL,Eastern Michigan,,none,none,2022-01-12T18:15:00.000Z,,3,Immediate
@@ -3814,7 +3814,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3812,2022,Marquez,Bembry,LB,Kentucky,"$11,254,204",Connecticut,,2021-12-13T19:35:00.000Z,,3,Immediate
 3813,2022,Jalil,Clemons,EDGE,Memphis,"$2,634,877",Southern Mississippi,"$1,500,334",2021-12-02T14:45:00.000Z,0.83,3,Immediate
 3814,2022,Nesta Jade,Silvera,DL,Miami,,Arizona State,"$5,689,877",2022-01-07T17:45:00.000Z,0.9,4,Immediate
-3815,2022,Antonio,Moultrie,EDGE,UAB,,Miami,,2021-12-21T22:31:00.000Z,0.88,3,Immediate
+3815,2022,Antonio,Moultrie,EDGE,UAB,"$1,240,957",Miami,,2021-12-21T22:31:00.000Z,0.88,3,Immediate
 3816,2022,Tylan,Grable,IOL,Jacksonville State,,UCF,,2021-12-16T03:44:00.000Z,,0,Immediate
 3817,2022,Brandon,Moore,CB,Florida State,"$10,034,191",none,none,2021-08-25T20:50:00.000Z,,3,Immediate
 3818,2022,Deuce,Spann,WR,Illinois,"$9,311,667",Florida State,"$10,034,191",2021-12-22T23:12:00.000Z,0.82,3,Immediate
@@ -3864,7 +3864,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3862,2022,Virdel,Edwards,S,Iowa State,"$7,551,312",Hawai'i,,2021-11-30T22:08:00.000Z,0.81,3,Immediate
 3863,2022,Lummie,Young,S,Duke,,Tulane,,2021-11-28T23:44:00.000Z,0.84,3,Immediate
 3864,2022,Abdoul,Kone,LB,UMass,,none,none,2021-09-27T19:58:00.000Z,,3,Immediate
-3865,2022,Kristopher,Moll,LB,UAB,,Washington,"$9,406,794",2021-12-03T22:50:00.000Z,0.88,3,Immediate
+3865,2022,Kristopher,Moll,LB,UAB,"$1,240,957",Washington,"$9,406,794",2021-12-03T22:50:00.000Z,0.88,3,Immediate
 3866,2022,Jordan,Redmond,DL,Virginia,"$12,780,300",none,none,2021-12-04T17:36:00.000Z,0.82,3,Immediate
 3867,2022,Tatum,Bethune,LB,UCF,,Florida State,"$10,034,191",2021-12-31T16:30:00.000Z,0.89,3,Immediate
 3868,2022,La'Vontae,Shenault,WR,Colorado,"$5,337,719",Alabama State,,2021-11-22T03:40:00.000Z,0.8,3,Immediate
@@ -3877,7 +3877,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3875,2022,Jared,Wiley,TE,Texas,"$22,272,474",TCU,,2021-12-17T15:39:00.000Z,0.87,3,Immediate
 3876,2022,Ivan,Pace Jr.,ILB,Miami (OH),,Cincinnati,"$3,984,845",2021-12-24T22:38:00.000Z,0.89,3,Immediate
 3877,2022,Jack,Camper,DL,Michigan State,"$13,035,471",Virginia,"$12,780,300",2021-12-13T14:03:00.000Z,0.84,3,Immediate
-3878,2022,Tyler,Johnston,QB,UAB,,Towson,,2021-12-06T17:19:00.000Z,0.84,3,Immediate
+3878,2022,Tyler,Johnston,QB,UAB,"$1,240,957",Towson,,2021-12-06T17:19:00.000Z,0.84,3,Immediate
 3879,2022,Cole,Garcia,IOL,Rice,,UMass,,2021-12-03T22:50:00.000Z,0.82,3,Immediate
 3880,2022,Quinn,Carroll,OT,Notre Dame,,Minnesota,"$7,171,424",2022-01-04T00:43:00.000Z,0.88,3,Immediate
 3881,2022,Levi,Williams,QB,Wyoming,"$2,426,393",Utah State,"$1,511,795",2021-12-22T22:33:00.000Z,0.9,4,Immediate
@@ -3930,7 +3930,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3928,2022,Jaylen,Hall,WR,Western Michigan,"$827,015",Western Kentucky,"$870,548",2021-12-07T23:20:00.000Z,0.83,3,Immediate
 3929,2022,Lyn-J,Dixon,RB,West Virginia,"$5,495,362",Tennessee,"$11,602,164",2022-06-28T14:30:00.000Z,0.84,3,Immediate
 3930,2022,Logan,Kendall,TE,Idaho,,Utah,"$7,252,969",2021-12-12T18:03:00.000Z,0.85,3,Immediate
-3931,2022,Dominique,Ratcliff,DL,Louisiana,,Texas State,"$599,058",2021-11-12T16:49:00.000Z,0.81,3,Immediate
+3931,2022,Dominique,Ratcliff,DL,Louisiana,"$1,284,835",Texas State,"$599,058",2021-11-12T16:49:00.000Z,0.81,3,Immediate
 3932,2022,Isaiah,Johnson,EDGE,Fresno State,"$2,102,800",Fresno State,"$2,102,800",2021-10-05T16:25:00.000Z,0.85,3,Immediate
 3933,2022,Ke'von,Ahmad,WR,UCF,,none,none,2021-11-30T19:33:00.000Z,,3,Immediate
 3934,2022,Antonio,Doyle,EDGE,Texas A&M,"$17,228,714",Jackson State,,2021-11-05T15:40:00.000Z,0.88,3,Immediate
@@ -3943,7 +3943,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 3941,2022,Zach,Gibson,QB,Akron,,Georgia Tech,"$4,281,809",2021-11-29T18:31:00.000Z,0.87,3,Immediate
 3942,2022,Jalen,Goss,OT,Florida State,"$10,034,191",Florida A&M,,2021-12-01T20:53:00.000Z,0.8,3,Immediate
 3943,2022,Adrian,Cole,CB,Syracuse,,Florida International,"$229,930",2021-12-01T20:52:00.000Z,0.85,3,Immediate
-3944,2022,Jacob,Zeno,QB,Baylor,,UAB,,2021-09-28T13:29:00.000Z,0.87,3,Immediate
+3944,2022,Jacob,Zeno,QB,Baylor,,UAB,"$1,240,957",2021-09-28T13:29:00.000Z,0.87,3,Immediate
 3945,2022,Josh,Henderson,RB,North Carolina,"$8,355,617",Indiana,"$13,631,160",2021-10-25T15:49:00.000Z,0.85,3,Immediate
 3946,2022,Luke,Benson,TE,Syracuse,,Georgia Tech,"$4,281,809",2021-12-01T20:51:00.000Z,0.82,3,Immediate
 3947,2022,Jaden,Mitchell,WR,Arizona,"$6,414,683",Texas State,"$599,058",2021-12-01T20:49:00.000Z,,3,Immediate
@@ -4030,7 +4030,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 4028,2022,Davion,Ervin-Poindexter,RB,Indiana,"$13,631,160",Western Kentucky,"$870,548",2021-12-13T14:00:00.000Z,,0,Immediate
 4029,2022,Ta'Quan,Roberson,QB,Penn State,"$13,793,489",Connecticut,,2021-12-13T14:00:00.000Z,0.85,3,Immediate
 4030,2022,Keontez,Lewis,WR,UCLA,"$5,919,423",Wisconsin,"$8,982,406",2021-12-13T01:37:00.000Z,0.86,3,Immediate
-4031,2022,Jackson,Bratton,LB,Alabama,"$15,995,406",UAB,,2021-11-29T14:58:00.000Z,0.85,3,Immediate
+4031,2022,Jackson,Bratton,LB,Alabama,"$15,995,406",UAB,"$1,240,957",2021-11-29T14:58:00.000Z,0.85,3,Immediate
 4032,2022,Deion,Smith,WR,LSU,"$20,137,141",none,none,2021-12-08T23:07:00.000Z,0.91,4,Immediate
 4033,2022,Ray,Thornton,S,Clemson,"$15,258,374",South Florida,"$2,235,939",2021-12-02T18:23:00.000Z,0.84,3,Immediate
 4034,2022,James,Wright,S,Kansas,"$7,427,957",Iowa Western C.C.,,2021-12-08T15:55:00.000Z,,0,Immediate
@@ -4067,7 +4067,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 4065,2023,Michael,Lynn,IOL,Nebraska,"$7,973,918",none,none,2022-12-01T06:00:00.000Z,,3,Immediate
 4066,2023,Jake,Seibert,K,Ohio State,"$20,253,400",Northern Illinois,"$506,195",2023-04-17T19:31:00.000Z,,3,Immediate
 4067,2023,Tre,Siggers,RB,SMU,,Incarnate Word,,2023-01-09T16:59:00.000Z,,3,Immediate
-4068,2023,Kameron,Pedescleaux,CB,Louisiana,,Tulane,,2023-05-10T15:23:00.000Z,0.88,3,Immediate
+4068,2023,Kameron,Pedescleaux,CB,Louisiana,"$1,284,835",Tulane,,2023-05-10T15:23:00.000Z,0.88,3,Immediate
 4069,2023,Jerrod,Gentry,CB,Tennessee,"$11,602,164",none,none,2023-05-03T14:08:00.000Z,,2,Immediate
 4070,2023,Derrick,LeBlanc,DL,Oklahoma,"$14,817,595",UCF,,2023-06-13T04:27:00.000Z,0.9,4,PendingAppeal
 4071,2023,A.J.,Hampton,CB,Northwestern,,Tulane,,2022-12-05T22:51:00.000Z,0.86,3,Immediate
@@ -4126,7 +4126,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 4124,2023,Grant,Page,WR,Colorado,"$5,337,719",Utah State,"$1,511,795",2023-04-24T18:41:00.000Z,0.85,3,Immediate
 4125,2023,Devon,Dorsey,WR,Miami (OH),,none,none,2022-12-05T14:23:00.000Z,,3,Immediate
 4126,2023,Brent,Jackson,S,Bucknell,,none,none,2022-11-21T14:46:00.000Z,,2,Immediate
-4127,2023,Antwan,Massie,CB,UAB,,none,none,2022-08-24T18:56:00.000Z,,3,Immediate
+4127,2023,Antwan,Massie,CB,UAB,"$1,240,957",none,none,2022-08-24T18:56:00.000Z,,3,Immediate
 4128,2023,Gage,Haskin,TE,SMU,,none,none,2023-01-11T16:15:00.000Z,,0,Immediate
 4129,2023,Paris,Shand,DL,Arizona,"$6,414,683",LSU,"$20,137,141",2022-12-05T04:35:00.000Z,0.92,4,Immediate
 4130,2023,Tywone,Malone,DL,Ole Miss,,Ohio State,"$20,253,400",2023-04-19T16:04:00.000Z,0.89,3,Immediate
@@ -4270,7 +4270,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 4268,2023,Terrance,Copper Jr.,WR,East Carolina,"$2,887,971",none,none,2023-04-30T14:33:00.000Z,,2,Immediate
 4269,2023,Rocky,Shelton,LB,Duke,,none,none,2022-11-29T14:50:00.000Z,,3,Immediate
 4270,2023,Isaiah,Rogers,DL,Central Michigan,,none,none,2023-04-20T14:46:00.000Z,,3,Immediate
-4271,2023,Trey,Amos,CB,Louisiana,,Alabama,"$15,995,406",2023-05-02T01:06:00.000Z,0.89,3,Immediate
+4271,2023,Trey,Amos,CB,Louisiana,"$1,284,835",Alabama,"$15,995,406",2023-05-02T01:06:00.000Z,0.89,3,Immediate
 4272,2023,Jimmy,Christ,OT,Penn State,"$13,793,489",Virginia,"$12,780,300",2023-04-17T16:13:00.000Z,0.86,3,Immediate
 4273,2023,Andre,Carter,DL,Western Michigan,"$827,015",Indiana,"$13,631,160",2022-12-03T03:05:00.000Z,0.93,4,Immediate
 4274,2023,Braylon,Ryan,DL,Coastal Carolina,"$367,676",none,none,2023-01-13T18:01:00.000Z,,3,Immediate
@@ -4421,7 +4421,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 4419,2023,Emory,Jones,QB,Arizona State,"$5,689,877",Cincinnati,"$3,984,845",2022-12-13T02:41:00.000Z,0.84,3,Immediate
 4420,2023,Armon,Bethea,IOL,Arizona State,"$5,689,877",none,none,2022-12-27T01:29:00.000Z,,3,Immediate
 4421,2023,Gavin,Barthiel,LB,Washington State,"$3,216,991",Utah State,"$1,511,795",2022-12-06T00:39:00.000Z,,3,Immediate
-4422,2023,Dylan,Hopkins,QB,UAB,,New Mexico,"$1,776,472",2023-01-12T14:29:00.000Z,,3,Immediate
+4422,2023,Dylan,Hopkins,QB,UAB,"$1,240,957",New Mexico,"$1,776,472",2023-01-12T14:29:00.000Z,,3,Immediate
 4423,2023,Isaiah,Knowles,PRO,Navy,,none,none,2022-08-02T15:09:00.000Z,0.77,2,Immediate
 4424,2023,Malik,Hornsby,QB,Arkansas,"$11,544,039",Texas State,"$599,058",2022-12-05T17:23:00.000Z,0.89,3,Immediate
 4425,2023,Colston,Powers,OT,Appalachian State,"$1,925,394",none,none,2023-04-15T14:56:00.000Z,,3,Immediate
@@ -4481,7 +4481,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 4479,2023,Danny,Lockhart,LB,Ole Miss,,none,none,2023-04-20T21:47:00.000Z,,3,Immediate
 4480,2023,Caleb,Burton,WR,Ohio State,"$20,253,400",Auburn,"$11,588,953",2023-04-25T19:28:00.000Z,0.9,4,Immediate
 4481,2023,Jonah,Chong,QB,Nevada,"$2,000,558",none,none,2022-12-05T18:08:00.000Z,,2,Immediate
-4482,2023,Damon,Stewart,QB,UAB,,none,none,2023-04-15T22:33:00.000Z,,2,Immediate
+4482,2023,Damon,Stewart,QB,UAB,"$1,240,957",none,none,2023-04-15T22:33:00.000Z,,2,Immediate
 4483,2023,Cole,Young,OT,Oregon,"$10,623,807",none,none,2023-05-01T16:39:00.000Z,,2,Immediate
 4484,2023,Jacob,Politte,LS,Jackson State,,none,none,2022-12-19T06:00:00.000Z,,2,Immediate
 4485,2023,Ryan,O'Keefe,WR,UCF,,Boston College,,2022-12-05T19:39:00.000Z,0.89,3,Immediate
@@ -4566,11 +4566,11 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 4564,2023,Jonah,Lytle,CB,Cincinnati,"$3,984,845",none,none,2023-04-25T16:07:00.000Z,,3,Immediate
 4565,2023,Jacob,Golden,OT,Boise State,"$2,765,657",New Mexico State,"$680,038",2022-08-02T14:06:00.000Z,,3,Immediate
 4566,2023,Jestin,Jacobs,LB,Iowa,"$9,698,730",Oregon,"$10,623,807",2022-12-06T22:00:00.000Z,0.9,4,Immediate
-4567,2023,Errol,Rogers,WR,Louisiana,,Liberty,,2022-12-28T15:12:00.000Z,,3,Immediate
+4567,2023,Errol,Rogers,WR,Louisiana,"$1,284,835",Liberty,,2022-12-28T15:12:00.000Z,,3,Immediate
 4568,2023,Mason,Tufaga,LB,Utah,"$7,252,969",Oregon State,"$3,163,423",2022-12-12T15:48:00.000Z,0.87,3,Immediate
 4569,2023,Donell,Harris,EDGE,Texas A&M,"$17,228,714",Louisiana Monroe,,2022-12-05T22:15:00.000Z,,5,Immediate
 4570,2023,JaCorey,Hyder,LB,UTSA,"$1,058,313",none,none,2023-04-17T12:05:00.000Z,,3,Immediate
-4571,2023,Antavious,Woody,IOL,Florida State,"$10,034,191",UAB,,2023-04-21T16:15:00.000Z,,3,Immediate
+4571,2023,Antavious,Woody,IOL,Florida State,"$10,034,191",UAB,"$1,240,957",2023-04-21T16:15:00.000Z,,3,Immediate
 4572,2023,Jeremiah,Wilson,CB,Syracuse,,Syracuse,,2022-12-12T17:56:00.000Z,,3,Immediate
 4573,2023,Ernest,Hausmann,LB,Nebraska,"$7,973,918",Michigan,"$16,357,054",2022-12-01T20:33:00.000Z,0.96,4,Immediate
 4574,2023,David,Bailey,RB,Colorado State,"$2,586,300",Texas A&M,"$17,228,714",2023-04-23T01:46:00.000Z,0.88,3,Immediate
@@ -4611,7 +4611,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 4609,2023,Tyler,Macon,QB,Missouri,"$7,146,859",Alcorn State,,2022-12-05T21:23:00.000Z,,4,Immediate
 4610,2023,Imari,Jones,CB,Texas Tech,"$6,986,182",none,none,2022-12-08T19:26:00.000Z,,3,Immediate
 4611,2023,Jordan,Anthony,WR,Kentucky,"$11,254,204",Texas A&M,"$17,228,714",2023-05-30T18:40:00.000Z,,4,Immediate
-4612,2023,Xavier,Lanier,CB,UAB,,none,none,2023-04-17T23:38:00.000Z,,3,Immediate
+4612,2023,Xavier,Lanier,CB,UAB,"$1,240,957",none,none,2023-04-17T23:38:00.000Z,,3,Immediate
 4613,2023,Da'Marcus,Johnson,EDGE,Fresno State,"$2,102,800",none,none,2023-04-17T16:40:00.000Z,,3,Immediate
 4614,2023,DeOnte,Washington,DL,Texas State,"$599,058",none,none,2023-04-26T16:12:00.000Z,,3,Immediate
 4615,2023,Braxton,Clark,CB,Nebraska,"$7,973,918",none,none,2023-04-26T16:53:00.000Z,,3,Immediate
@@ -5105,7 +5105,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5103,2023,Cameron,Wire,OT,LSU,"$20,137,141",Tulane,,2022-12-09T16:37:00.000Z,,3,Immediate
 5104,2023,Kevin,Miniefield,CB,Air Force,,none,none,2023-01-03T06:00:00.000Z,,2,Immediate
 5105,2023,Caden,Jumper,TE,Washington,"$9,406,794",none,none,2022-12-21T18:19:00.000Z,,3,Immediate
-5106,2023,Will,Parker,OT,Tennessee,"$11,602,164",UAB,,2023-01-03T15:02:00.000Z,,3,Immediate
+5106,2023,Will,Parker,OT,Tennessee,"$11,602,164",UAB,"$1,240,957",2023-01-03T15:02:00.000Z,,3,Immediate
 5107,2023,Lamy,Constant,RB,Toledo,"$928,243",none,none,2023-01-23T16:06:00.000Z,,3,Immediate
 5108,2023,Jahlil,Taylor,DL,North Carolina,"$8,355,617",Old Dominion,"$2,389,384",2022-12-05T18:09:00.000Z,,3,Immediate
 5109,2023,Tyrese,Grant,ATH,Wyoming,"$2,426,393",none,none,2022-12-13T06:00:00.000Z,,3,Immediate
@@ -5148,7 +5148,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5146,2023,Keyonta,Lanier,WR,New Mexico,"$1,776,472",none,none,2022-08-04T22:13:00.000Z,,3,Immediate
 5147,2023,Mohamed,Toure,WR,Northern Illinois,"$506,195",none,none,2022-08-04T16:43:00.000Z,,3,Immediate
 5148,2023,Jacolby,Criswell,QB,North Carolina,"$8,355,617",Arkansas,"$11,544,039",2022-12-05T12:38:00.000Z,0.88,3,Immediate
-5149,2023,Kybo,Jamerson,LB,UAB,,none,none,2023-04-28T17:18:00.000Z,,3,Immediate
+5149,2023,Kybo,Jamerson,LB,UAB,"$1,240,957",none,none,2023-04-28T17:18:00.000Z,,3,Immediate
 5150,2023,Malik,Rainey,CB,Cincinnati,"$3,984,845",none,none,2023-04-19T15:16:00.000Z,,3,Immediate
 5151,2023,Kaden,Cobb,QB,Ball State,"$341,183",none,none,2023-04-13T16:03:00.000Z,,3,Immediate
 5152,2023,Damien,Alford,WR,Syracuse,,Syracuse,,2023-01-10T23:18:00.000Z,,3,Immediate
@@ -5278,7 +5278,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5276,2023,Keyon,Henry-Brooks,RB,Louisiana Tech,,none,none,2022-09-07T18:22:00.000Z,,3,Immediate
 5277,2023,Myles,Hinton,OT,Stanford,,Michigan,"$16,357,054",2022-12-02T23:12:00.000Z,0.9,4,Immediate
 5278,2023,Tyler,Morris,ATH,Navy,,none,none,2022-09-14T05:00:00.000Z,,0,Immediate
-5279,2023,Damon,Youngblood,S,Louisiana,,North Texas,"$607,493",2022-08-24T16:50:00.000Z,,3,Immediate
+5279,2023,Damon,Youngblood,S,Louisiana,"$1,284,835",North Texas,"$607,493",2022-08-24T16:50:00.000Z,,3,Immediate
 5280,2023,Marquez,Dortch,WR,Mississippi State,,California,"$3,932,903",2023-04-17T12:54:00.000Z,0.89,3,Immediate
 5281,2023,Keleki,Latu,TE,California,"$3,932,903",Nevada,"$2,000,558",2022-12-09T21:04:00.000Z,,3,Immediate
 5282,2023,Bronson,Barron,QB,Weber State,,Western Kentucky,"$870,548",2022-12-13T23:00:00.000Z,,2,Immediate
@@ -5300,7 +5300,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5298,2023,Jarrett,Kingston,IOL,Washington State,"$3,216,991",USC,,2022-12-19T18:42:00.000Z,0.89,3,Immediate
 5299,2023,Jonathan,Mucciolo,IOL,Sacred Heart,,Ball State,"$341,183",2022-11-28T18:28:00.000Z,,0,Immediate
 5300,2023,Paul,Tyson,QB,Arizona State,"$5,689,877",Clemson,"$15,258,374",2022-11-28T18:20:00.000Z,0.83,3,Immediate
-5301,2023,Iverson,Hooks,WR,UAB,,UAB,,2022-12-09T15:56:00.000Z,,3,Immediate
+5301,2023,Iverson,Hooks,WR,UAB,"$1,240,957",UAB,"$1,240,957",2022-12-09T15:56:00.000Z,,3,Immediate
 5302,2023,D'Vion,Harris,EDGE,Old Dominion,"$2,389,384",Colorado,"$5,337,719",2023-04-15T20:02:00.000Z,0.87,3,Immediate
 5303,2023,Michael,Hayes,K,Georgia State,"$781,177",West Virginia,"$5,495,362",2022-12-29T09:44:00.000Z,0.81,3,Immediate
 5304,2023,Christian,Curatolo,OT,Boston College,,none,none,2023-04-20T18:14:00.000Z,,2,Immediate
@@ -5356,7 +5356,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5354,2023,Tiger,Peterson,S,Hawai'i,,none,none,2023-01-11T03:40:00.000Z,,3,Immediate
 5355,2023,Brendan,Gant,S,Florida State,"$10,034,191",Colorado,"$5,337,719",2023-04-17T19:56:00.000Z,0.89,3,Immediate
 5356,2023,Kendall,Karr,TE,North Carolina,"$8,355,617",Coastal Carolina,"$367,676",2022-12-05T20:33:00.000Z,,3,Immediate
-5357,2023,Jaylen,Key,S,UAB,,Alabama,"$15,995,406",2023-04-24T22:50:00.000Z,0.89,3,Immediate
+5357,2023,Jaylen,Key,S,UAB,"$1,240,957",Alabama,"$15,995,406",2023-04-24T22:50:00.000Z,0.89,3,Immediate
 5358,2023,JB,Brown,LB,Bowling Green,"$670,821",Kansas,"$7,427,957",2022-12-30T17:24:00.000Z,0.88,3,Immediate
 5359,2023,Jaden,Navarrette,EDGE,Oregon,"$10,623,807",none,none,2022-12-18T17:06:00.000Z,,4,Immediate
 5360,2023,Chad,Schuster,OT,Syracuse,,Western Michigan,"$827,015",2022-12-12T22:21:00.000Z,,3,Immediate
@@ -5402,7 +5402,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5400,2023,Devontez,Walker,WR,Kent State,"$160,201",North Carolina,"$8,355,617",2022-12-09T16:54:00.000Z,0.95,4,Immediate
 5401,2023,Willis,Patrick,IOL,Jackson State,,TCU,,2022-12-17T15:15:00.000Z,0.89,3,Immediate
 5402,2023,Austin,Johnson,IOL,Colorado,"$5,337,719",Charlotte,,2022-12-09T00:00:00.000Z,0.83,3,Immediate
-5403,2023,Jordan,Palmer,WR,UAB,,none,none,2023-04-18T14:38:00.000Z,,3,Immediate
+5403,2023,Jordan,Palmer,WR,UAB,"$1,240,957",none,none,2023-04-18T14:38:00.000Z,,3,Immediate
 5404,2023,Luke,Marion,S,Utah State,"$1,511,795",none,none,2022-12-06T18:59:00.000Z,,3,Immediate
 5405,2023,Emari,Pait,ATH,Fresno State,"$2,102,800",none,none,2022-12-05T18:01:00.000Z,,3,Immediate
 5406,2023,Tommy,Brockermeyer,OT,Alabama,"$15,995,406",TCU,,2022-12-06T01:00:00.000Z,0.91,4,Immediate
@@ -5452,7 +5452,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5450,2023,Cameron,Wiley,RB,Akron,,none,none,2023-04-19T13:36:00.000Z,,3,Immediate
 5451,2023,Brandon,Gray,WR,Washington State,"$3,216,991",none,none,2023-04-15T18:20:00.000Z,,3,Immediate
 5452,2023,Bryson,Green,WR,Oklahoma State,"$5,338,583",Wisconsin,"$8,982,406",2023-01-04T14:29:00.000Z,0.88,3,Immediate
-5453,2023,Codey,Martin,CB,UAB,,none,none,2023-04-16T15:31:00.000Z,,2,Immediate
+5453,2023,Codey,Martin,CB,UAB,"$1,240,957",none,none,2023-04-16T15:31:00.000Z,,2,Immediate
 5454,2023,Jimto,Obidegwu,OT,Temple,,Kent State,"$160,201",2023-04-16T15:31:00.000Z,,3,Immediate
 5455,2023,Dean,Jones,S,BYU,,Southern Utah,,2023-04-15T11:44:00.000Z,,3,Immediate
 5456,2023,John,Campbell Jr.,OT,Miami,,Tennessee,"$11,602,164",2022-12-16T22:36:00.000Z,0.89,3,Immediate
@@ -5519,7 +5519,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5517,2023,Anderson,Grover,WR,Washington State,"$3,216,991",Sacramento State,,2022-12-20T01:18:00.000Z,,2,Immediate
 5518,2023,Joe,More,OT,Richmond,,Syracuse,,2022-12-06T00:13:00.000Z,0.85,3,Immediate
 5519,2023,Elelyon,Noa,RB,Boise State,"$2,765,657",none,none,2023-03-09T06:00:00.000Z,,3,Immediate
-5520,2023,Armani,Diamond,CB,Auburn,"$11,588,953",UAB,,2022-10-26T22:35:00.000Z,,3,Immediate
+5520,2023,Armani,Diamond,CB,Auburn,"$11,588,953",UAB,"$1,240,957",2022-10-26T22:35:00.000Z,,3,Immediate
 5521,2023,Samuel,Benjamin,DL,Idaho State,,Arizona State,"$5,689,877",2022-12-01T22:55:00.000Z,0.85,3,Immediate
 5522,2023,Jaydon,Hodge,S,Pennsylvania,,Bethune-Cookman,,2022-08-18T19:01:00.000Z,,3,Immediate
 5523,2023,Khadere,Kounta,OT,Old Dominion,"$2,389,384",UCLA,"$5,919,423",2023-01-12T14:58:00.000Z,0.88,3,Immediate
@@ -5606,7 +5606,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5604,2023,Walker,Howard,QB,LSU,"$20,137,141",Ole Miss,,2023-01-13T19:00:00.000Z,0.92,4,Immediate
 5605,2023,Alec,Trujillo,QB,Fresno State,"$2,102,800",De Anza College,,2023-01-03T06:00:00.000Z,,2,Immediate
 5606,2023,Maquel,Haywood,RB,Navy,,Appalachian State,"$1,925,394",2022-12-15T23:23:00.000Z,,2,Immediate
-5607,2023,Brody,Dalton,TE,UAB,,none,none,2023-01-05T22:17:00.000Z,,3,Immediate
+5607,2023,Brody,Dalton,TE,UAB,"$1,240,957",none,none,2023-01-05T22:17:00.000Z,,3,Immediate
 5608,2023,Trevor,Roberson,OT,Texas Tech,"$6,986,182",none,none,2023-04-10T20:04:00.000Z,,3,Immediate
 5609,2023,Gavin,Potter,LB,Kansas,"$7,427,957",Arkansas State,"$1,207,619",2022-12-05T21:55:00.000Z,,3,Immediate
 5610,2023,Phillip,Hill,S,UNLV,,North Texas,"$607,493",2022-12-27T17:51:00.000Z,,3,Immediate
@@ -5619,7 +5619,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5617,2023,Jadon,Furubotten,OT,Air Force,,Palomar College,,2022-08-26T05:00:00.000Z,,0,Immediate
 5618,2023,Jalani,Williams,S,Missouri,"$7,146,859",none,none,2022-12-01T14:46:00.000Z,,4,Immediate
 5619,2023,Kejuan,Markham,S,Arizona State,"$5,689,877",none,none,2022-10-07T13:39:00.000Z,,4,Immediate
-5620,2023,Mike,York,TE,UAB,,none,none,2022-11-28T06:00:00.000Z,,2,Immediate
+5620,2023,Mike,York,TE,UAB,"$1,240,957",none,none,2022-11-28T06:00:00.000Z,,2,Immediate
 5621,2023,James,Stewart,DL,Memphis,"$2,634,877",none,none,2023-04-15T23:53:00.000Z,,3,Immediate
 5622,2023,Jimmy,Calloway,WR,Tennessee,"$11,602,164",Louisville,"$9,443,439",2022-12-05T13:43:00.000Z,0.87,3,Immediate
 5623,2023,Grayson,Lewis,IOL,East Carolina,"$2,887,971",none,none,2023-04-15T22:35:00.000Z,,2,Immediate
@@ -5706,8 +5706,8 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5704,2023,Von,Killins,CB,Hawai'i,,Mississippi Valley State,,2022-12-05T22:32:00.000Z,,3,Immediate
 5705,2023,Jeffrey,Davis Jr.,CB,Penn State,"$13,793,489",none,none,2022-12-05T20:46:00.000Z,,3,Immediate
 5706,2023,Tauskie,Dove,WR,Missouri,"$7,146,859",Memphis,"$2,634,877",2022-12-21T22:47:00.000Z,,3,Immediate
-5707,2023,James,Smyre,LB,Marshall,"$1,462,900",UAB,,2022-12-21T23:14:00.000Z,,3,Immediate
-5708,2023,Charles,Daniels,LB,UAB,,none,none,2023-04-17T22:55:00.000Z,,3,Immediate
+5707,2023,James,Smyre,LB,Marshall,"$1,462,900",UAB,"$1,240,957",2022-12-21T23:14:00.000Z,,3,Immediate
+5708,2023,Charles,Daniels,LB,UAB,"$1,240,957",none,none,2023-04-17T22:55:00.000Z,,3,Immediate
 5709,2023,Keontae,Jenkins,ATH,TCU,,none,none,2023-04-17T22:36:00.000Z,,4,Immediate
 5710,2023,RJ,Adams,IOL,Georgia Tech,"$4,281,809",Lackawanna College,,2023-01-25T20:02:00.000Z,,3,Immediate
 5711,2023,Elijah,Jeudy,DL,Texas A&M,"$17,228,714",Nebraska,"$7,973,918",2022-12-05T15:05:00.000Z,0.88,3,Immediate
@@ -5759,7 +5759,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 5757,2023,Nick,Mardner,WR,Cincinnati,"$3,984,845",Auburn,"$11,588,953",2022-12-07T22:06:00.000Z,0.89,3,Immediate
 5758,2023,Davis,Brin,QB,Tulsa,,Georgia Southern,"$844,462",2022-11-28T16:46:00.000Z,,3,Immediate
 5759,2023,Matt,Smith,TE,Duke,,UMass,,2022-12-31T21:30:00.000Z,0.81,3,Immediate
-5760,2023,Dontae,Fleming,WR,Louisiana,,Tulane,,2022-12-08T16:00:00.000Z,,3,Immediate
+5760,2023,Dontae,Fleming,WR,Louisiana,"$1,284,835",Tulane,,2022-12-08T16:00:00.000Z,,3,Immediate
 5761,2023,Kenneth,Harris,CB,Arkansas State,"$1,207,619",Oklahoma State,"$5,338,583",2022-12-05T15:12:00.000Z,0.89,3,Immediate
 5762,2023,E.J.,Williams,WR,Clemson,"$15,258,374",Indiana,"$13,631,160",2022-12-05T16:29:00.000Z,0.87,3,Immediate
 5763,2023,Isaiah,Perez,SDE,BYU,,Eastern Washington,,2023-01-16T19:46:00.000Z,,3,Immediate
@@ -6014,7 +6014,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 6012,2023,Josh,Carlson,P,New Mexico State,"$680,038",Arizona State,"$5,689,877",2022-12-02T17:16:00.000Z,,0,Immediate
 6013,2023,Khmari,Thompson,WR,Illinois,"$9,311,667",Arkansas State,"$1,207,619",2023-01-19T15:17:00.000Z,,3,Immediate
 6014,2023,Layne,Hatcher,QB,Texas State,"$599,058",Ball State,"$341,183",2022-12-05T14:20:00.000Z,,3,Immediate
-6015,2023,Zy,McDonald,QB,Louisiana,,Jackson State,,2022-12-28T17:36:00.000Z,,3,Immediate
+6015,2023,Zy,McDonald,QB,Louisiana,"$1,284,835",Jackson State,,2022-12-28T17:36:00.000Z,,3,Immediate
 6016,2023,Jalen,Lee,DL,Florida,"$15,802,237",LSU,"$20,137,141",2022-12-07T14:18:00.000Z,0.86,3,Immediate
 6017,2023,Henry,Bryant,DL,Louisville,"$9,443,439",Georgia State,"$781,177",2022-12-05T23:10:00.000Z,0.82,3,Immediate
 6018,2023,Owen,Snively,IOL,Colorado State,"$2,586,300",Eastern Michigan,,2022-12-05T20:22:00.000Z,,3,Immediate
@@ -6158,7 +6158,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 6156,2023,Tuasivi,Nomura,LB,USC,,Fresno State,"$2,102,800",2022-12-26T01:29:00.000Z,,3,Immediate
 6157,2023,Chris,Megginson,CB,Liberty,,SMU,,2022-12-19T16:22:00.000Z,0.87,3,Immediate
 6158,2023,Michael,Green,LB,Virginia,"$12,780,300",none,none,2022-12-05T18:05:00.000Z,,3,Immediate
-6159,2023,Tyetus,Smith-Lindsey,RB,UAB,,none,none,2023-03-06T15:33:00.000Z,,2,Immediate
+6159,2023,Tyetus,Smith-Lindsey,RB,UAB,"$1,240,957",none,none,2023-03-06T15:33:00.000Z,,2,Immediate
 6160,2023,Demarcus,Gordon,OT,Louisiana Tech,,none,none,2023-03-06T15:32:00.000Z,,3,Immediate
 6161,2023,Kyle,Cass,CB,Troy,"$386,184",none,none,2023-03-06T15:30:00.000Z,,3,Immediate
 6162,2023,Mason,Lunsford,OT,Maryland,"$3,735,112",LSU,"$20,137,141",2023-03-07T15:09:00.000Z,0.88,3,Immediate
@@ -6305,7 +6305,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 6303,2023,Seth,Anderson,WR,Iowa,"$9,698,730",Iowa,"$9,698,730",2023-01-01T15:57:00.000Z,,2,Immediate
 6304,2023,Brett,Wethington,RB,Indiana,"$13,631,160",none,none,2022-12-01T14:59:00.000Z,,0,Immediate
 6305,2023,Victor,Curne,IOL,Washington,"$9,406,794",Ole Miss,,2023-01-04T15:53:00.000Z,0.87,3,Immediate
-6306,2023,Malachi,Holt-Bennett,WR,Indiana,"$13,631,160",UAB,,2022-12-05T21:26:00.000Z,,3,Immediate
+6306,2023,Malachi,Holt-Bennett,WR,Indiana,"$13,631,160",UAB,"$1,240,957",2022-12-05T21:26:00.000Z,,3,Immediate
 6307,2023,Marquis,Wilson,CB,Penn State,"$13,793,489",Purdue,"$5,510,579",2023-01-16T16:41:00.000Z,,4,Immediate
 6308,2023,Dee,Wiggins,WR,Louisville,"$9,443,439",Cincinnati,"$3,984,845",2023-01-07T20:26:00.000Z,0.86,3,Immediate
 6309,2023,Samuel,Williams,EDGE,Pittsburgh,,none,none,2022-12-05T15:44:00.000Z,,3,Immediate
@@ -6425,7 +6425,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 6423,2023,Victor,Nelson Jr.,S,LIU Post,,Boston College,,2023-01-16T22:14:00.000Z,0.89,3,Immediate
 6424,2023,Caleb,Shaffer,OG,Miami (OH),,Oklahoma,"$14,817,595",2022-12-22T04:10:00.000Z,0.88,3,Immediate
 6425,2023,Jax,Dineen,RB,Kansas State,"$7,121,436",none,none,2023-03-03T15:34:00.000Z,,3,Immediate
-6426,2023,Hunter,Herring,QB,Louisiana,,none,none,2022-12-15T14:23:00.000Z,,3,Immediate
+6426,2023,Hunter,Herring,QB,Louisiana,"$1,284,835",none,none,2022-12-15T14:23:00.000Z,,3,Immediate
 6427,2023,Alejandro,Mata,K,Jackson State,,Colorado,"$5,337,719",2022-12-20T01:24:00.000Z,0.81,3,Immediate
 6428,2023,Simeon,Blair,S,Arkansas,"$11,544,039",Memphis,"$2,634,877",2023-01-10T20:44:00.000Z,,2,Immediate
 6429,2023,Steven,McBride,WR,Kansas,"$7,427,957",Hawai'i,,2022-12-05T15:56:00.000Z,,3,Immediate
@@ -6481,7 +6481,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 6479,2023,Ezekiel,Durham-Campbell,EDGE,Lenoir-Rhyne,,Louisiana Tech,,2022-12-05T21:40:00.000Z,,2,Immediate
 6480,2023,Raydarious,Jones,CB,LSU,"$20,137,141",Mississippi State,,2022-12-07T21:58:00.000Z,0.88,3,Immediate
 6481,2023,Ty,McCullouch,WR,Colorado State,"$2,586,300",Montana State,,2022-12-05T17:05:00.000Z,,3,Immediate
-6482,2023,Trey,Fite,EDGE,SMU,,Louisiana,,2022-12-05T22:31:00.000Z,,3,Immediate
+6482,2023,Trey,Fite,EDGE,SMU,,Louisiana,"$1,284,835",2022-12-05T22:31:00.000Z,,3,Immediate
 6483,2023,Jah'mar,Sanders,ATH,New Mexico,"$1,776,472",Lamar,,2022-12-05T18:02:00.000Z,,3,Immediate
 6484,2023,Chris,Thomas,DL,Florida,"$15,802,237",Marshall,"$1,462,900",2022-12-09T15:08:00.000Z,0.86,3,Immediate
 6485,2023,John,Jackson III,WR,USC,,Nevada,"$2,000,558",2023-02-23T06:00:00.000Z,,3,Immediate
@@ -6510,7 +6510,7 @@ Unnamed: 0,season,first_name,last_name,position,origin,originNIL,destination,des
 6508,2023,Nick,Alftin,DL,California,"$3,932,903",none,none,2022-12-19T23:02:00.000Z,,3,Immediate
 6509,2023,Jacoby,Boykins,WR,Alabama,"$15,995,406",Abilene Christian,,2022-12-05T18:12:00.000Z,,2,Immediate
 6510,2023,Aeneas,DiCosmo,LB,Stanford,,Vanderbilt,,2022-12-05T20:57:00.000Z,0.83,3,Immediate
-6511,2023,Dazalin,Worsham,WR,Auburn,"$11,588,953",UAB,,2022-12-05T20:56:00.000Z,,3,Immediate
+6511,2023,Dazalin,Worsham,WR,Auburn,"$11,588,953",UAB,"$1,240,957",2022-12-05T20:56:00.000Z,,3,Immediate
 6512,2023,Kalen,Villanueva,LB,Louisiana Tech,,none,none,2022-12-05T20:55:00.000Z,,3,Immediate
 6513,2023,Jeremiah,Trojan,LB,UCLA,"$5,919,423",none,none,2022-12-05T20:55:00.000Z,,3,Immediate
 6514,2023,Lorenzo,Lingard,RB,Florida,"$15,802,237",Akron,,2022-12-06T14:50:00.000Z,0.86,3,Immediate
