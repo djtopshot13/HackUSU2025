@@ -36,9 +36,9 @@ Collective Funding,Total Support,Ticket Sales,Contributions,Conf,School
 "$7,146,859","43,485,183","13,929,479","29,555,704",SEC,Missouri
 "$7,121,436","43,330,498","15,221,310","28,109,188",Big 12,Kansas State
 "$6,986,182","42,507,539","13,560,519","28,947,020",Big 12,Texas Tech
-"$6,467,166","39,349,578","16,737,350","22,612,228",SEC,Mississippi St.
+"$6,467,166","39,349,578","16,737,350","22,612,228",SEC,Mississippi State
 "$6,414,683","39,030,243","19,164,426","19,865,817",Big 12,Arizona
-"$5,935,429","36,114,218","21,214,362","14,899,856",ACC,North Carolina State
+"$5,935,429","36,114,218","21,214,362","14,899,856",ACC,NC State
 "$5,919,423","36,016,831","17,494,361","18,522,470",Big Ten,UCLA
 "$5,689,877","34,620,152","14,144,182","20,475,970",Big 12,Arizona State
 "$5,510,579","33,529,207","16,617,614","16,911,593",Big Ten,Purdue
@@ -50,7 +50,7 @@ Collective Funding,Total Support,Ticket Sales,Contributions,Conf,School
 "$3,932,903","23,929,814","8,073,384","15,856,430",ACC,California
 "$3,735,112","22,726,352","12,735,792","9,990,560",Big Ten,Maryland
 "$3,624,816","22,055,252","13,049,333","9,005,919",Big Ten,Rutgers
-"$3,308,993","20,133,624","5,782,943","14,350,681",Big 12,Central Florida
+"$3,308,993","20,133,624","5,782,943","14,350,681",Big 12,UCF
 "$3,216,991","19,573,838","9,299,636","10,274,202",Pac-12,Washington State
 "$3,163,423","19,247,899","9,447,886","9,800,013",Pac-12,Oregon State
 "$2,098,333","12,767,342","5,191,579","7,575,763",Big 12,Houston
@@ -59,14 +59,14 @@ Collective Funding,Total Support,Ticket Sales,Contributions,Conf,School
 "$2,586,300","15,736,383","4,742,234","10,994,149",MW,Colorado State
 "$2,102,800","12,794,521","5,914,738","6,879,783",MW,Fresno State
 "$2,000,558","12,172,431","7,325,678","4,846,753",MW,Nevada
-"$2,772,864","16,871,536","7,034,986","9,836,550",MW,Nevada-Las Vegas
+"$2,772,864","16,871,536","7,034,986","9,836,550",MW,UNLV
 "$1,776,472","10,808,972","4,510,754","6,298,218",MW,New Mexico
 "$4,158,476","25,302,315","5,624,459","19,677,856",MW,San Diego State
 "$1,001,536","6,093,864","608,561","5,485,303",MW,San Jose State
 "$1,511,795","9,198,542","2,718,827","6,479,715",MW,Utah State
 "$2,426,393","14,763,429","4,084,611","10,678,818",MW,Wyoming
-"$1,051,850","6,399,998","1,950,230","4,449,768",MW,Hawaii (Football)
-"$1,240,957","7,550,624","2,306,791","5,243,833",American,Alabama at Birmingham
+"$1,051,850","6,399,998","1,950,230","4,449,768",MW,Hawaii
+"$1,240,957","7,550,624","2,306,791","5,243,833",American,UAB
 "$2,887,971","17,571,910","5,807,897","11,764,013",American,East Carolina
 "$1,308,349","7,960,674","1,112,409","6,848,265",American,Florida Atlantic
 "$2,634,877","16,031,952","10,253,609","5,778,343",American,Memphis
@@ -75,7 +75,7 @@ Collective Funding,Total Support,Ticket Sales,Contributions,Conf,School
 "$2,235,939","13,604,611","6,485,854","7,118,757",American,South Florida
 ,,,,ACC,Southern Methodist
 ,,,,American,Temple
-"$1,058,313","6,439,323","3,315,102","3,124,221",American,Texas at San Antonio
+"$1,058,313","6,439,323","3,315,102","3,124,221",American,UTSA
 ,,,,American,Tulane
 ,,,,American,Tulsa
 "$1,570,976","9,558,628","1,628,183","7,930,445",American,UNC Charlotte
@@ -88,8 +88,8 @@ Collective Funding,Total Support,Ticket Sales,Contributions,Conf,School
 "$844,462","5,138,145","1,999,550","3,138,595",Sun Belt,Georgia Southern
 "$781,177","4,753,087","606,809","4,146,278",Sun Belt,Georgia State
 "$1,207,786","7,348,797","3,564,462","3,784,335",Sun Belt,James Madison
-"$1,284,835","7,817,600","2,411,959","5,405,641",Sun Belt,Louisiana - Lafayette
-,"1,873,989","623,091","1,250,898",Sun Belt,Louisiana - Monroe
+"$1,284,835","7,817,600","2,411,959","5,405,641",Sun Belt,Louisiana
+,"1,873,989","623,091","1,250,898",Sun Belt,Louisiana Monroe
 "$1,462,900","8,901,037","2,946,763","5,954,274",Sun Belt,Marshall
 "$2,389,384","14,538,249","2,493,640","12,044,609",Sun Belt,Old Dominion
 "$479,267","2,916,110","1,176,270","1,739,840",Sun Belt,South Alabama
@@ -116,5 +116,5 @@ Collective Funding,Total Support,Ticket Sales,Contributions,Conf,School
 ,,,,CUSA,Middle Tennessee State
 "$680,038","4,137,703","1,465,012","2,672,691",CUSA,New Mexico State
 "$238,669","1,452,185","307,512","1,144,673",CUSA,Sam Houston State
-"$955,659","5,814,721","2,318,851","3,495,870",CUSA,Texas at El Paso
+"$955,659","5,814,721","2,318,851","3,495,870",CUSA,UTEP
 "$870,548","5,296,863","2,281,717","3,015,146",CUSA,Western Kentucky
