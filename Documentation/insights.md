@@ -1,1 +1,0 @@
-# **Insights throughout the project**
