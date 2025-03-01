@@ -65,10 +65,15 @@ portal_data.insert(loc=12, column='destination22%', value=d22)
 portal_data.insert(loc=13, column='destination23%', value=d23)
 
 
-filtered_data = portal_data[(portal_data['origin'].isin(list(mwwinloss.keys()))) | (portal_data['destination'].isin(list(mwwinloss.keys())))]
+outbound_data = portal_data[(portal_data['origin'].isin(list(mwwinloss.keys())))]
+outbound_data = outbound_data.drop(columns=['destination21%', 'destination22%', 'destination23%'] )
+inbound_data = portal_data[(portal_data['destination'].isin(list(mwwinloss.keys())))]
+inbound_data = inbound_data.drop(columns=['origin21%', 'origin22%', 'origin23%'] )
 o24 = pfftest.pop("origin24%")
-filtered_data.insert(loc=9, column='origin24%', value=o24)
+outbound_data.insert(loc=9, column='origin24%', value=o24)
 # Save the modified portal data to a new CSV file
-filtered_data['origin21%'] = filtered_data["origin21%"].fillna("-")
-filtered_data.to_csv('PFF Data/MW Data/pff-data_updated.csv', index=False)
+inbound_data = inbound_data.fillna(0)
+inbound_data.to_csv('PFF Data/MW Data/pff-inbound.csv', index=False)
+outbound_data = outbound_data.fillna(0)
+outbound_data.to_csv('PFF Data/MW Data/pff-outbound.csv', index=False)
 
