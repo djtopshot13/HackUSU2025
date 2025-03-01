@@ -16,7 +16,7 @@
 
 ## <u>Special Teams</u>
 
-- ST: ?
+- ST: Number of Special Teams Snaps Played
 - KRET: Kickoff Returns
 - KCOV: Kickoff Coverage
 - PRET: Punt Returns
