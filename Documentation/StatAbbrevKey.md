@@ -1,4 +1,4 @@
-- - [**PFF Stat Key Documentation**](#pff-stat-key-documentation)
+- [**PFF Stat Key Documentation**](#pff-stat-key-documentation)
   - [Special Teams](#special-teams)
   - [Defense](#defense)
 # **PFF Stat Key Documentation**
