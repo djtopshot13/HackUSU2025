@@ -198,6 +198,10 @@ def generateConfCols(df, confDict):
     
     # Use the mapping to create the 'Conf' column
     df['Conf'] = df['Team'].map(team_to_conf)
+    df['Slug'] = df['Unnamed: 7']
+    df = df.drop(columns=['Unnamed: 7'])
+    slugs = df.pop('Slug')
+    df.insert(loc=3, column='Slug', value=slugs)
     
     # If you want to insert it at a specific location (e.g., index 8)
     conf_col = df.pop('Conf')
