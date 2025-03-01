@@ -1,10 +1,10 @@
 - [**PFF Stat Key Documentation**](#pff-stat-key-documentation)
-  - [Overall Stats\<\\u\>](#overall-statsu)
-  - [Special Teams\<\\u\>](#special-teamsu)
-  - [Defense\<\\u\>](#defenseu)
-  - [Offense\<\\u\>](#offenseu)
+  - [Overall Stats](#overall-stats)
+  - [Special Teams](#special-teams)
+  - [Defense](#defense)
+  - [Offense](#offense)
 # **PFF Stat Key Documentation**
-## <u>Overall Stats<\u>
+## <u>Overall Stats</u>
 - POS: Position
 - S: Season
 - Conf: Conference
@@ -14,7 +14,7 @@
 - \#: Player's Jersey Number
 
 
-## <u>Special Teams<\u>
+## <u>Special Teams</u>
 
 - ST: ?
 - KRET: Kickoff Returns
@@ -29,7 +29,7 @@
 - AST: Assisted Tackles
 - MT: Missed Tackles
 
-## <u>Defense<\u>
+## <u>Defense</u>
 - DEF: Number of Defensive Snaps Played
 - DEF%: Unsure how this number is calculated by PFF
 - RUND: Number of Run Defense Plays
@@ -44,7 +44,7 @@
 - MT: Missed tackle
 - STOP: Stops made (?)
 
-## <u>Offense<\u>
+## <u>Offense</u>
 - OFF: Offensive Snaps Played
 - OFF%: Unsure how this grade of offense is calculated
 - Run: Number of run plays said player was a part of 
